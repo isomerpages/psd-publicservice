@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/pexels_kin_pastor_777059.jpg
+      background: /images/officers_montage.jpg
       url: /contact-us/
       key_highlights:
         - title: SINGAPORE PUBLIC SERVICE
