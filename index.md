@@ -4,29 +4,25 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: For important announcement that needs a banner
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Hero title
+      subtitle: Hero subtitle
+      background: /images/pexels_kin_pastor_777059.jpg
+      url: /contact-us/
+      key_highlights:
+        - title: SINGAPORE PUBLIC SERVICE
+          description: Missions and Values
+          url: ""
+        - title: CAREERS
+          description: Join the Public Service
+          url: https://gmail.com
+      variant: image
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
-
