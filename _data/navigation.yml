@@ -1,8 +1,23 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Who we are
+    url: /who-we-are
+    sublinks:
+      - title: Mission and Values
+        url: /mission-and-values
+  - title: What we do
+    url: /what-we-do
+    sublinks:
+      - title: Force for Good
+        url: /force-for-good
+      - title: Public Service for Good
+        url: /public-service-for-good
+      - title: Challenge
+        url: https://psdchallenge.psd.gov.sg
+  - title: Join us
+    url: /join-us
+    sublinks:
+      - title: Benefits
+        url: /permalink
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
