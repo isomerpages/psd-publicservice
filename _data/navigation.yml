@@ -14,10 +14,16 @@ links:
         url: /public-service-for-good
       - title: Challenge
         url: https://psdchallenge.psd.gov.sg
-  - title: Join us
+  - title: Join us (tbc name)
     url: /join-us
     sublinks:
       - title: Benefits
         url: /permalink
-  - title: Example Page
-    url: /example-page/
+      - title: Sectors & Pathways
+        url: /sectors-and-pathways
+      - title: Find a Scholarship
+        url: /find-a-scholarship
+      - title: FAQs
+        url: /faqs
+  - title: Apply for Jobs and Internships
+    url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
