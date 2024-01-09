@@ -1,11 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Who we are
+  - title: Who We Are
     url: /who-we-are
     sublinks:
       - title: Mission and Values
         url: /mission-and-values
-  - title: What we do
+  - title: What We Do
     url: /what-we-do
     sublinks:
       - title: Force for Good
@@ -14,7 +14,7 @@ links:
         url: /public-service-for-good
       - title: Challenge
         url: https://psdchallenge.psd.gov.sg
-  - title: Join us (tbc name)
+  - title: Join Us (tbc name)
     url: /join-us
     sublinks:
       - title: Benefits
