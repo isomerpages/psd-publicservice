@@ -7,7 +7,7 @@ permalink: /
 notification: For important announcement that needs a banner
 sections:
   - hero:
-      title: Singapore Public Service
+      title: The Singapore Public Service
       background: /images/sample_pic_1.png
       url: /contact-us/
       key_highlights:
