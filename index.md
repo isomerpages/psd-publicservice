@@ -23,5 +23,4 @@ sections:
       description: providing our officers meaningful careers with many experiences.
       button: Learn more about us
       url: /who-we-are/missions-and-values/
-      subtitle: Who we are
 ---
