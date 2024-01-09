@@ -19,10 +19,10 @@ sections:
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
       variant: center
   - infobar:
-      title: Who we are
-      description: The Singapore Public Service employs 150,000 officers across 16
-        Ministries and 50+ Statutory Boards. Within is the Civil Service, with
-        about 86,000 officers.
+      title: The Singapore Public Service
+      description: employs 150,000 officers across 16 Ministries and 50+ Statutory
+        Boards. Within is the Civil Service, comprising about 86,000 officers
+        working in the Ministries.
       button: Learn more
       url: /who-we-are/missions-and-values/
 ---
