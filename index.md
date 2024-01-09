@@ -11,7 +11,7 @@ sections:
       background: /images/Bannersample2.png
       url: /contact-us/
       key_highlights:
-        - title: SINGAPORE PUBLIC SERVICE
+        - title: Who we are
           description: Missions and Values
           url: //who-we-are/missions-and-values/
         - title: CAREERS
