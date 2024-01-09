@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: SINGAPORE PUBLIC SERVICE
           description: Missions and Values
-          url: ""
+          url: //who-we-are/missions-and-values/
         - title: CAREERS
           description: Join the Public Service
-          url: https://gmail.com
+          url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
       variant: center
   - infobar:
       title: Infobar title
