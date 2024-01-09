@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Who we are
           description: Missions and Values
-          url: //who-we-are/missions-and-values/
+          url: /who-we-are/missions-and-values/
         - title: CAREERS
           description: Join the Public Service
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
