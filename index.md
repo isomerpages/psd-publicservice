@@ -18,5 +18,12 @@ sections:
           description: Join the Public Service
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
       variant: center
-  - infobar: {}
+  - infobar:
+      subtitle: What we do
+      title: We are a purpose-driven Public Service that delivers,
+      description: innovative solutions, fosters collaboration, and prioritises our
+        citizens. Our officers continually evolve to ensure a sustainable and
+        inclusive future in SG.
+      button: Learn more on what we do
+      url: /what-we-do/force-for-good/
 ---
