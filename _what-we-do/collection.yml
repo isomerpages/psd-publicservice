@@ -2,5 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
-      - Public Service For Good.md
       - Force For Good.md
+      - Public Service For Good.md
