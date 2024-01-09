@@ -7,9 +7,8 @@ permalink: /
 notification: For important announcement that needs a banner
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/officers_montage.jpg
+      title: Singapore Public Service
+      background: /images/sample_pic_1.png
       url: /contact-us/
       key_highlights:
         - title: SINGAPORE PUBLIC SERVICE
@@ -18,7 +17,7 @@ sections:
         - title: CAREERS
           description: Join the Public Service
           url: https://gmail.com
-      variant: image
+      variant: center
   - infobar:
       title: Infobar title
       subtitle: Subtitle
