@@ -1,29 +1,29 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Who We Are
-    url: /missions-and-values/
+    url: /who-we-are/missions-and-values/
     sublinks:
       - title: Mission and Values
-        url: /missions-and-values/
+        url: /who-we-are/missions-and-values/
   - title: What We Do
-    url: /force-for-good/
+    url: /who-we-do/force-for-good/
     sublinks:
       - title: Force for Good
-        url: /force-for-good/
+        url: /who-we-do/force-for-good/
       - title: Public Service for Good
-        url: /public-service--for-good/
+        url: /who-we-do/public-service-for-good/
       - title: Challenge
         url: https://psdchallenge.psd.gov.sg
   - title: Join Us (tbc name)
-    url: /join-us
+    url: /join-us/benefits/
     sublinks:
       - title: Benefits
         url: /permalink
       - title: Sectors & Pathways
-        url: /sectors-and-pathways
+        url: /join-us/sectors-and-pathways
       - title: Find a Scholarship
-        url: /find-a-scholarship
+        url: /join-us/find-a-scholarship
       - title: FAQs
-        url: /faqs
+        url: /join-us/faqs
   - title: Apply for Jobs and Internships
     url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
