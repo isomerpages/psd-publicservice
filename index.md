@@ -18,9 +18,5 @@ sections:
           description: Join the Public Service
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
       variant: center
-  - infobar:
-      title: We are a purpose-driven Public Service that delivers,
-      description: providing our officers meaningful careers with many experiences.
-      button: Learn more about us
-      url: /who-we-are/missions-and-values/
+  - infobar: {}
 ---
