@@ -3,7 +3,7 @@ url: https://publicservice.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#ee2536"
-  secondary-color: "#ffffff"
+  secondary-color: "#ee2536"
   media-colors:
     - title: media-color-one
       color: "#ee2536"
