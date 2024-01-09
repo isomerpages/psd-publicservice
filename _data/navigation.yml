@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Who We Are
-    url: /who-we-are
+    url: /missions-and-values/
     sublinks:
       - title: Mission and Values
         url: /mission-and-values
