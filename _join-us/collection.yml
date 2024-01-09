@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - FAQs.md
       - Find a Scholarship.md
       - Sectors & Pathways.md
       - Benefits.md
