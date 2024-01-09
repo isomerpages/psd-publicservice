@@ -8,7 +8,7 @@ notification: For important announcement that needs a banner
 sections:
   - hero:
       title: The Singapore Public Service
-      background: /images/sample_pic_1.png
+      background: /images/Bannersample1.png
       url: /contact-us/
       key_highlights:
         - title: SINGAPORE PUBLIC SERVICE
@@ -17,7 +17,7 @@ sections:
         - title: CAREERS
           description: Join the Public Service
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
-      variant: center
+      variant: image
   - infobar:
       title: Infobar title
       subtitle: Subtitle
