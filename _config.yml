@@ -2,13 +2,13 @@ title: The Singapore Public Service
 url: https://publicservice.gov.sg
 favicon: /images/Coat_of_arms_of_Singapore_svg.png
 colors:
-  primary-color: "#d0021b"
-  secondary-color: "#d9001c"
+  primary-color: "#a90015"
+  secondary-color: "#a90015"
   media-colors:
     - title: media-color-one
-      color: "#d0021b"
+      color: "#a90015"
     - title: media-color-two
-      color: "#d0021b"
+      color: "#a90015"
     - title: media-color-three
       color: "#4a4a4a"
     - title: media-color-four
