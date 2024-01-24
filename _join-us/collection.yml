@@ -1,0 +1,8 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Benefits.md
+      - Sectors & Pathways.md
+      - Find a Scholarship.md
+      - FAQs.md

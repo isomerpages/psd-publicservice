@@ -1,0 +1,58 @@
+title: The Singapore Public Service
+url: https://publicservice.gov.sg
+favicon: /images/Coat_of_arms_of_Singapore_svg.png
+colors:
+  primary-color: "#a90015"
+  secondary-color: "#a90015"
+  media-colors:
+    - title: media-color-one
+      color: "#a90015"
+    - title: media-color-two
+      color: "#a90015"
+    - title: media-color-three
+      color: "#4a4a4a"
+    - title: media-color-four
+      color: "#4a4a4a"
+    - title: media-color-five
+      color: "#4a4a4a"
+description: An Isomer site of the Singapore Government
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d2uosmxsbx85s5.amplifyapp.com
+prod: https://master.d2a6ijcp71ehh3.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""

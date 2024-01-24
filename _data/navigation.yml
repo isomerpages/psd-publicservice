@@ -1,0 +1,29 @@
+logo: /images/SPS_Temp_Logo_Mockup.png
+links:
+  - title: Who We Are
+    url: /who-we-are/missions-and-values/
+    sublinks:
+      - title: Mission and Values
+        url: /who-we-are/missions-and-values/
+  - title: What We Do
+    url: /what-we-do/force-for-good/
+    sublinks:
+      - title: Force for Good
+        url: /what-we-do/force-for-good/
+      - title: Public Service for Good
+        url: /what-we-do/public-service-for-good/
+      - title: Challenge
+        url: https://psdchallenge.psd.gov.sg
+  - title: Join Us
+    url: /join-us/benefits/
+    sublinks:
+      - title: Benefits
+        url: /join-us/benefits/
+      - title: Sectors & Pathways
+        url: /join-us/sectors-and-pathways
+      - title: Find a Scholarship
+        url: /join-us/find-a-scholarship/
+      - title: FAQs
+        url: /join-us/faqs/
+  - title: Apply for Jobs and Internships
+    url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
