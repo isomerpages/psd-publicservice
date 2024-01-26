@@ -4,7 +4,7 @@ title: The Singapore Public Service
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: For important announcement that needs a banner
+notification: Welcome to the new Singapore Public Service website!
 sections:
   - hero:
       title: Making Singapore the best home
