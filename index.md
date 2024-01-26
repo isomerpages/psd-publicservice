@@ -17,7 +17,8 @@ sections:
         - title: CAREERS
           description: Join the Public Service
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
-      variant: center
+      variant: floating
+      backgroundColor: gray
   - infobar:
       subtitle: What we do
       title: We are a purpose-driven Public Service that delivers,
