@@ -2,7 +2,7 @@ collections:
   join-us:
     output: true
     order:
-      - Join Us.md
+      - Why the Public Sector?.md
       - Benefits.md
       - Find a Scholarship.md
       - FAQs.md
