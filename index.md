@@ -52,4 +52,14 @@ sections:
             programmes.
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Unsure of your career?
+      subtitle: Add an image and text
+      id: infopic
+      description: Whether you are a fresh entry to the workforce, or making a career
+        switch, join us if you enjoy problem-solving alongside bright and
+        passionate people!
+      button: Explore the Public Sector
+      url: /what-we-do/sectors-and-pathways/
+      alt: Image alt text
 ---
