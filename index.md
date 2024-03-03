@@ -21,14 +21,12 @@ sections:
       backgroundColor: gray
   - infobar:
       subtitle: Who we are
-      title: Why join the Singapore Public Service?
-      description: >-
-        It’s more than just a job, it’s about shaping Singapore’s future and
-        yours.
-
-        We’re passionate about improving citizen’s lives and building a better tomorrow.
-      button: Learn more on what we do
-      url: /what-we-do/force-for-good/
+      title: The Singapore Public Service
+      description: Dedicated to Singapore's success, we uphold integrity, serve with
+        empathy, and pursue excellence for a vibrant and enduring home for all
+        Singaporeans.
+      button: Learn more about our purpose
+      url: /who-we-are/mission-and-vision
   - textcards:
       title: Why join the Singapore Public Service?
       subtitle: Add informational text
