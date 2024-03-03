@@ -20,11 +20,38 @@ sections:
       variant: center
       backgroundColor: gray
   - infobar:
-      subtitle: What we do
-      title: We are a purpose-driven Public Service that delivers,
-      description: innovative solutions, fosters collaboration, and prioritises our
-        citizens. Our officers continually evolve to ensure a sustainable and
-        inclusive future in SG.
+      subtitle: Who we are
+      title: Why join the Singapore Public Service?
+      description: >-
+        It’s more than just a job, it’s about shaping Singapore’s future and
+        yours.
+
+        We’re passionate about improving citizen’s lives and building a better tomorrow.
       button: Learn more on what we do
       url: /what-we-do/force-for-good/
+  - textcards:
+      title: Why join the Singapore Public Service?
+      subtitle: Add informational text
+      id: textcards
+      description: >-
+        It’s more than just a job, it’s about shaping Singapore’s future and
+        yours.
+
+        We’re passionate about improving citizen’s lives and building a better tomorrow.
+      cards:
+        - title: Future-ready Workforce
+          description: Drive national change with cutting-edge tools, tackling challenges
+            efficiently.
+          linktext: Learn more
+          url: ""
+        - title: Learning and Development
+          description: Grow professionally through diverse trainings and attachment
+            programmes.
+          linktext: Learn more
+          url: ""
+        - title: Benefits
+          description: We offer flexible work arrangements, as well as employee wellness
+            programmes.
+          linktext: Learn more
+          url: ""
 ---
