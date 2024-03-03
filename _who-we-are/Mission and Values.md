@@ -4,4 +4,61 @@ permalink: /who-we-are/missions-and-values/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Our Mission</strong></h3><ul data-tight="true" class="tight"><li><p>We work with the elected Government to shape Singapore's future, forge a common vision among Singaporeans and transform the vision into a reality.</p></li><li><p>We safeguard the independence, sovereignty, security and prosperity of Singapore.</p></li><li><p>We uphold justice and equality, guided by the principles of incorruptibility, meritocracy and impartiality.</p></li></ul><h3><strong>Our Goals</strong></h3><ul data-tight="true" class="tight"><li><p>We build a dynamic, successful and vibrant nation of excellence, with a safe, secure and stable environment.</p></li><li><p>We create the best conditions for Singapore to succeed and for Singaporeans to attain high standards of living.</p></li><li><p>We foster a cohesive and harmonious society, based on respect, care and concern for fellow citizens.</p></li></ul><h3><strong>Our Values</strong></h3><p><strong>Integrity<br></strong>Integrity is at the core of our values and is the foundation upon which the mission, goals and beliefs of the Public Service are built. Integrity is closely linked to our key public governance principle of incorruptibility. We believe integrity safeguards the sovereignty, independence, security and prosperity of Singapore, and upholds justice and equality. A public service with integrity commands a high level of trust among citizens and foreign investors. We display integrity by being accountable, having moral courage and being fair and impartial.</p><ul data-tight="true" class="tight"><li><p><strong><u>Accountability</u></strong> is about taking responsibility for our own words and actions including our mistakes. When we do so, our actions and behaviours are transparent, and we are able to stand up to public scrutiny.</p></li><li><p><strong><u>Moral Courage</u></strong> is about standing up for what is right. It involves speaking up when the popular view is not aligned with our own moral beliefs and standing firm on doing things the right way despite external pressure. Being truthful and honest when sharing information even when there may be a negative impact on the self, are ways in which we display moral courage.</p></li><li><p><strong><u>Fairness and Impartiality</u></strong> is about treating people fairly and equally without discrimination or favouritism when carrying out our responsibilities. It is also about staying incorruptible and upright even when there is an opportunity for personal gain or preferential treatment. And finally, it is being able to differentiate official dealings from personal ones - ensuring we do not seek to gain personal advantage from them.</p></li></ul><p><strong>Service</strong><br>Service is the mission of public officers - we exist to serve the people of Singapore. Public officers should always do what is right and reasonable with empathy and respect for the people that we serve, while having the overall interest of our nation and people in mind.</p><ul data-tight="true" class="tight"><li><p><strong><u>Dedication to Nation:</u></strong> Being dedicated to the nation means having a desire to serve the public and putting national interests before personal interests. This includes going the extra mile to help and contribute to the betterment of the nation and its people.</p></li><li><p><strong><u>Empathy and Compassion:</u></strong> When we serve, we serve with empathy and genuine concern for others. We are warm and understanding when interacting. We show we understand the needs of the public and truly care about them.</p></li><li><p><strong><u>Professionalism:</u></strong> We leave aside personal considerations and feelings, to be helpful and polite to others. When dealing with unreasonable requests, we remain sensitive, respectful and tactful. We take initiative to provide useful and relevant information to help the people we serve better understand the issues.</p></li></ul><p><strong>Excellence</strong><br>Excellence is the outcome. To achieve these goals, public officers manifest excellence within themselves. Staff development is an important aspect of striving towards excellence for the Public Service. We have a mindset for excellence - striving to be the best that one can be in our roles. We drive excellence by being quality oriented, working with others to achieve excellence and by seeking continuous improvement.</p><ul data-tight="true" class="tight"><li><p><strong><u>Quality Orientation:</u></strong> We provide timely, efficient and high-quality service and outcomes. To do so, we ensure we are competent in our own area of expertise and work, strive for service excellence and do our best to deliver high quality outcomes. We also ensure we are timely and responsive in delivering services and outcomes.</p></li><li><p><strong><u>Teamwork</u></strong> We collaborate, share and support one another to achieve excellence. Among individuals and agencies, we collaborate and foster cooperation to achieve common goals by facilitating the sharing of resources and information, and providing guidance and support to help others develop.</p></li><li><p><strong><u>Continuous Improvement</u></strong> We seek progress and push new boundaries by taking measured risks, challenging norms, and trying new and innovative ideas to bring about improvements. We also do so by showing openness to change, seeking alternative viewpoints and feedback, and learning new skills to improve ourselves.</p></li></ul><p></p>
+<p></p>
+<p>The <strong>Singapore Public Service</strong> is dedicated to building a
+thriving, dynamic nation and a harmonious and vibrant society, making Singapore
+the best home for current and future generations of Singaporeans.</p>
+<h3><strong>Who works in the Singapore Public Service?</strong></h3>
+<p>SPS comprises 16 Ministries—forming the Civil Service—and more than 50
+independent statutory boards (e.g. HDB, CPF Board, etc.). Our work at SPS
+impacts various facets of life in Singapore, spanning education and the
+environment, to legal and defence.&nbsp;</p>
+<p>The roles in the public service are ever-evolving and diverse—you will
+be able to find one that matches your personal goals and aspirations. Job
+rotation programmes are present to ensure everyone in SPS has the opportunity
+to experience a variety of roles.</p>
+<h3><strong>Our Core Values</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Integrity</strong> is the compass guiding the Public Service. We
+aim to safeguard Singapore's core principles, instilling trust in you through
+accountability, moral courage, and a commitment to fairness and impartiality.</p>
+</li>
+<li>
+<p>We <strong>care</strong> about you. Singaporeans are at the heart of what
+we do. Your well-being is our priority, and we’re all ears to listen, understand,
+and care for your concerns.</p>
+</li>
+<li>
+<p><strong>Excellence</strong> is our goal. Public officers embody this through
+continuous self-development, a quality-oriented approach, collaborative
+teamwork, and a commitment to constant improvement.</p>
+</li>
+</ul>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ministries</div><div class="isomer-card-description">Explore our agencies and discover your calling. </div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Professions</div>
+<div class="isomer-card-description">Chart your career paths with us today.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Benefits</div><div class="isomer-card-description">Discover more about careers in the Public Service, and how you can benefit. </div><div class="isomer-card-link">Learn more.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder text" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internships</div>
+<div class="isomer-card-description">Embark on a journey as a Singapore public servant.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
+</div>
+<p></p>
