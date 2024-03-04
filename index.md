@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to the new Singapore Public Service website!
 sections:
   - hero:
-      title: Making Singapore the best home
+      title: One Purpose, Many Possibilities
       background: /images/Bannersample2.png
       url: /contact-us/
       key_highlights:
