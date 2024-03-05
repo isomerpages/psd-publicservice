@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - FAQs/Example 2.md
-      - FAQs/FAQs.md
+      - FAQs/Example 1.md
       - FAQs/.keep
       - Benefits/Benefits.md
       - Benefits/.keep
