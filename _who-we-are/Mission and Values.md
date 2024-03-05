@@ -15,6 +15,8 @@ etc.). As a public officer your work will impact various facets of life
 in Singapore, spanning education and the environment, to social services
 and defence</p>
 <h3><strong>Our Core Values</strong></h3>
+<p>The Public Service aims to act with integrity, serve with empathy, and
+pursue excellence in all we do.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Integrity. </strong>Integrity is closely linked to Singapore’s
