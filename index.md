@@ -12,14 +12,6 @@ sections:
       url: /contact-us/
       variant: center
       backgroundColor: gray
-  - infobar:
-      subtitle: "    "
-      title: The Singapore Public Service
-      description: Dedicated to Singapore's success, we uphold integrity, serve with
-        empathy, and pursue excellence for a vibrant and enduring home for all
-        Singaporeans.
-      button: Learn more about our purpose
-      url: /who-we-are/mission-and-vision
   - textcards:
       title: Why join the Singapore Public Service?
       subtitle: Add informational text
@@ -46,13 +38,18 @@ sections:
           linktext: Learn more
           url: ""
   - infopic:
-      title: Unsure of your career?
-      subtitle: Add an image and text
+      subtitle: Explore the Public Sector
       id: infopic
       description: Whether you are a fresh entry to the workforce, or making a career
         switch, join us if you enjoy problem-solving alongside bright and
         passionate people!
-      button: Explore the Public Sector
+      button: See what we do
       url: /what-we-do/sectors-and-pathways/
       alt: Image alt text
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
