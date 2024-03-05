@@ -9,30 +9,30 @@ description: ""
 thriving, dynamic nation and a harmonious and vibrant society, making Singapore
 the best home for current and future generations of Singaporeans.</p>
 <h3><strong>Who works in the Singapore Public Service?</strong></h3>
-<p>SPS comprises 16 Ministries—forming the Civil Service—and more than 50
-independent statutory boards (e.g. HDB, CPF Board, etc.). Our work at SPS
-impacts various facets of life in Singapore, spanning education and the
-environment, to legal and defence.&nbsp;</p>
-<p>The roles in the public service are ever-evolving and diverse—you will
-be able to find one that matches your personal goals and aspirations. Job
-rotation programmes are present to ensure everyone in SPS has the opportunity
-to experience a variety of roles.</p>
+<p>The Singapore Public Service comprises 16 Ministries—forming the Civil
+Service—and more than 50 independent statutory boards (e.g. HDB, CPF Board,
+etc.). As a public officer your work will impact various facets of life
+in Singapore, spanning education and the environment, to social services
+and defence</p>
 <h3><strong>Our Core Values</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Integrity</strong> is the compass guiding the Public Service. We
-aim to safeguard Singapore's core principles, instilling trust in you through
-accountability, moral courage, and a commitment to fairness and impartiality.</p>
+<p><strong>Integrity. </strong>Integrity is closely linked to Singapore’s
+key public governance principle of incorruptibility. The Public Service
+displays integrity by being accountable, having moral courage and being
+fair and impartial.</p>
 </li>
 <li>
-<p>We <strong>care</strong> about you. Singaporeans are at the heart of what
-we do. Your well-being is our priority, and we’re all ears to listen, understand,
-and care for your concerns.</p>
+<p><strong>Service. </strong>Improving the lives of Singaporeans is core
+to the Public Service’s mission.&nbsp;Public officers are expected to always
+do what is right and reasonable with empathy and respect for the people
+that they serve, while having the overall interest Singapore and Singaporeans
+in mind.</p>
 </li>
 <li>
-<p><strong>Excellence</strong> is our goal. Public officers embody this through
-continuous self-development, a quality-oriented approach, collaborative
-teamwork, and a commitment to constant improvement.</p>
+<p><strong>Excellence</strong>. The Public Service continuously seeks to
+improve its policies, programmes and people, and work as One Public Service
+and with partners and citizens to achieve excellence.</p>
 </li>
 </ul>
 <p><strong>Find out more about the Singapore Public Service here:</strong>
