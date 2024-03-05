@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - FAQs/FAQs.md
       - FAQs/.keep
       - Benefits/Benefits.md
       - Benefits/.keep
