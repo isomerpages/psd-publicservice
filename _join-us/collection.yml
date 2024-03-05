@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - FAQs/.keep
-      - FAQs.md
       - Benefits/Benefits.md
       - Benefits/.keep
       - Why the Public Sector?.md
