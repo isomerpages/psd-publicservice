@@ -13,7 +13,7 @@ sections:
       variant: center
       backgroundColor: gray
   - infobar:
-      subtitle: Who we are
+      subtitle: "    "
       title: The Singapore Public Service
       description: Dedicated to Singapore's success, we uphold integrity, serve with
         empathy, and pursue excellence for a vibrant and enduring home for all
