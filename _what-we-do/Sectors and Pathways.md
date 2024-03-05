@@ -33,7 +33,7 @@ individuals passionate about enriching lives, ensuring community success,
 and contributing to a stronger, happier nation. Join us in shaping Singapore's
 future – where your efforts make a lasting impact on society.</p>
 <p>
-<br><strong>Find out more about the various agencies that connects and builds Singapore’s social compact. [link to info on MCCY, MOE, MOH and MSF - these pages should be housed under 2.2]&nbsp;</strong>
+<br><strong>Find out more about the various agencies that connects and builds Singapore’s social compact. [link to info on MCCY, MOE, MOH and MSF - these pages should be housed under 2.2]&nbsp;</strong> 
 <br>
 </p>
 <hr>
