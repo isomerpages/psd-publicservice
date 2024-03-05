@@ -2,4 +2,4 @@ collections:
   what-we-do:
     output: true
     order:
-      - Sectors and Pathways.md
+      - Sectors.md
