@@ -12,9 +12,9 @@ to experience a variety of roles.</p>
 <hr>
 <h4><strong>Build Our Environment</strong></h4>
 <p>How can we actively enhance our living environment despite our compact
-size? Join us in shaping Singapore into a vibrant, clean, and liveable
-city by promoting sustainable development, fortifying infrastructure, and
-fostering excellent connectivity.</p>
+size? Promoting sustainable development, fortifying infrastructure, and
+fostering excellent connectivity, are some ways we actively shape Singapore
+into a vibrant, clean, and liveable city.</p>
 <p>Find out more about the various agencies that contribute to Singapore’s
 environment. [link to info on MND, MOT and MSE - these pages should be
 housed under 2.2]</p>
@@ -28,10 +28,11 @@ systems for essential needs and propel Singapore forward.</p>
 </p>
 <hr>
 <h4><strong>Shape Our Society</strong></h4>
-<p>Envision a more connected, cohesive, and resilient Singapore? We're seeking
-individuals passionate about enriching lives, ensuring community success,
-and contributing to a stronger, happier nation. Join us in shaping Singapore's
-future – where your efforts make a lasting impact on society.</p>
+<p>Envision a more connected, cohesive, and resilient Singapore? We're looking
+for individuals passionate about enriching lives, ensuring community success,
+and contributing to a stronger, happier nation. Your efforts make a lasting
+impact on society, shaping a stronger and harmonious Singapore for the
+future.</p>
 <p>
 <br><strong>Find out more about the various agencies that connects and builds Singapore’s social compact. [link to info on MCCY, MOE, MOH and MSF - these pages should be housed under 2.2]&nbsp;</strong> 
 <br>
@@ -47,7 +48,7 @@ our nation's well-being and creating a safer future for all.</p>
 </p>
 <hr>
 <h4><strong>Administrate + Manage</strong></h4>
-<p>Ready to make a lasting impact on Singapore's future? Join the Central
+<p>Ready to make a lasting impact on Singapore's future? Consider the Central
 Administration sector – a pivotal role that ensures our nation runs smoothly.
 We are seeking individuals who can drive effective and efficient strategies,
 contributing to a consultative, customer-centric government. Be part of
