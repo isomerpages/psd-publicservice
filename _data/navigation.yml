@@ -6,23 +6,21 @@ links:
       - title: Mission and Values
         url: /who-we-are/missions-and-values/
   - title: What We Do
-    url: /what-we-do/force-for-good/
+    url: /what-we-do/sectors-overview/
     sublinks:
-      - title: Force for Good
-        url: /what-we-do/force-for-good/
+      - title: Explore Sectors
+        url: /what-we-do/explore-sectors/
       - title: Public Service for Good
         url: /what-we-do/public-service-for-good/
       - title: Challenge
         url: https://psdchallenge.psd.gov.sg
   - title: Join Us
-    url: /join-us/benefits/
+    url: /join-us/
     sublinks:
       - title: Overview
-        url: /overview
+        url: /join-us/overview/
       - title: Benefits
         url: /join-us/benefits/
-      - title: Sectors & Pathways
-        url: /join-us/sectors-and-pathways
       - title: Find a Scholarship
         url: /join-us/find-a-scholarship/
       - title: FAQs
