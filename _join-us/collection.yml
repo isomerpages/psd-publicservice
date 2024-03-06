@@ -2,11 +2,11 @@ collections:
   join-us:
     output: true
     order:
-      - FAQs/Example 2.md
-      - FAQs/Example 1.md
-      - FAQs/.keep
+      - Why the Public Sector?.md
+      - Benefits/.keep
       - Benefits/Work Arrangements, Salary, & Career Growth.md
       - Benefits/Overview.md
-      - Benefits/.keep
-      - Why the Public Sector?.md
       - Find a Scholarship.md
+      - FAQs/.keep
+      - FAQs/Example 2.md
+      - FAQs/Example 1.md
