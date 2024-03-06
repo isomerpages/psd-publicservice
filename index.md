@@ -12,9 +12,17 @@ sections:
       url: /contact-us/
       variant: center
       backgroundColor: gray
+  - infopic:
+      id: infopic
+      description: Whether you are a fresh entry to the workforce, or making a career
+        switch, join us if you enjoy problem-solving alongside bright and
+        passionate people!
+      button: See what we do
+      url: /what-we-do/sectors-and-pathways/
+      alt: Image alt text
+      title: Explore the Public Sector
   - textcards:
       title: Why join the Singapore Public Service?
-      subtitle: "  "
       id: textcards
       description: >-
         It’s more than just a job, it’s about shaping Singapore’s future and
@@ -38,18 +46,13 @@ sections:
           linktext: Learn more
           url: ""
   - infopic:
+      title: Innovation in the Public Sector
+      subtitle: The Challenge
       id: infopic
-      description: Whether you are a fresh entry to the workforce, or making a career
-        switch, join us if you enjoy problem-solving alongside bright and
-        passionate people!
-      button: See what we do
-      url: /what-we-do/sectors-and-pathways/
+      description: The Challenge showcases innovation & creativity of public
+        servants—from work tips to humorous stories, there is something for
+        everyone!
+      button: Check out their latest stories
+      url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
-      title: Explore the Public Sector
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
