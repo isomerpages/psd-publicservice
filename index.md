@@ -18,9 +18,10 @@ sections:
         switch, join us if you enjoy problem-solving alongside bright and
         passionate people!
       button: See what we do
-      url: /what-we-do/sectors-and-pathways/
+      url: /what-we-do/explore-sectors/
       alt: Image alt text
       title: Explore the Public Sector
+      image: /images/hero-banner.png
   - textcards:
       title: Why join the Singapore Public Service?
       id: textcards
@@ -39,12 +40,12 @@ sections:
           description: Grow professionally through diverse trainings and attachment
             programmes.
           linktext: Learn more
-          url: ""
+          url: join-us/benefits/work-benefits
         - title: Benefits
           description: We offer flexible work arrangements, as well as employee wellness
             programmes.
           linktext: Learn more
-          url: ""
+          url: /join-us/benefits/
   - infopic:
       title: Innovation in the Public Sector
       subtitle: The Challenge
@@ -55,4 +56,5 @@ sections:
       button: Check out their latest stories
       url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
+      image: /images/hero-banner.png
 ---
