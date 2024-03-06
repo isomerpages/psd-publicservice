@@ -2,5 +2,6 @@ collections:
   faqs:
     output: true
     order:
+      - Career Progressions & Benefits.md
       - Recruitment.md
       - Application Process.md
