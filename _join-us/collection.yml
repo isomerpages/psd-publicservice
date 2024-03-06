@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Why the Public Sector?.md
-      - Benefits/Health Benefits.md
       - Benefits/.keep
       - Benefits/Overview.md
       - Benefits/Work Benefits.md
+      - Benefits/Health Benefits.md
       - Find a Scholarship.md
       - FAQs/.keep
       - FAQs/Example 2.md
