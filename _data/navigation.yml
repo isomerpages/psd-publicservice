@@ -2,18 +2,11 @@ logo: /images/SPS_Temp_Logo_Mockup.png
 links:
   - title: Who We Are
     collection: who-we-are
-  - title: Who We Are
-    url: /who-we-are/missions-and-values/
-    sublinks:
-      - title: Mission and Values
-        url: /who-we-are/missions-and-values/
   - title: What We Do
-    url: /what-we-do/sectors-overview/
+    url: /what-we-do/explore-sectors/
     sublinks:
       - title: Explore Sectors
         url: /what-we-do/explore-sectors/
-      - title: Public Service for Good
-        url: /what-we-do/public-service-for-good/
       - title: Challenge
         url: https://psdchallenge.psd.gov.sg
   - title: Careers
