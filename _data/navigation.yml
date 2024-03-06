@@ -1,6 +1,8 @@
 logo: /images/SPS_Temp_Logo_Mockup.png
 links:
   - title: Who We Are
+    collection: who-we-are
+  - title: Who We Are
     url: /who-we-are/missions-and-values/
     sublinks:
       - title: Mission and Values
@@ -14,15 +16,8 @@ links:
         url: /what-we-do/public-service-for-good/
       - title: Challenge
         url: https://psdchallenge.psd.gov.sg
-  - title: Join Us
-    url: /join-us/
-    sublinks:
-      - title: Why the Public Sector
-        url: /join-us/why-the-public-sector/
-      - title: Benefits
-        url: /join-us/benefits/
-      - title: Find a Scholarship
-        url: /join-us/find-a-scholarship/
+  - title: Careers
+    collection: join-us
   - title: FAQs
     collection: faqs
   - title: Apply for Jobs and Internships
