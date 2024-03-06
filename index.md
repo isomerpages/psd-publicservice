@@ -14,7 +14,7 @@ sections:
       backgroundColor: gray
   - textcards:
       title: Why join the Singapore Public Service?
-      subtitle: Add informational text
+      subtitle: "  "
       id: textcards
       description: >-
         It’s more than just a job, it’s about shaping Singapore’s future and
@@ -38,7 +38,6 @@ sections:
           linktext: Learn more
           url: ""
   - infopic:
-      subtitle: Explore the Public Sector
       id: infopic
       description: Whether you are a fresh entry to the workforce, or making a career
         switch, join us if you enjoy problem-solving alongside bright and
@@ -46,6 +45,7 @@ sections:
       button: See what we do
       url: /what-we-do/sectors-and-pathways/
       alt: Image alt text
+      title: Explore the Public Sector
   - infobar:
       title: Infobar
       subtitle: Add informational text
