@@ -12,24 +12,23 @@ sections:
       url: /contact-us/
       variant: center
       backgroundColor: gray
+      subtitle: Discover a career in the Singapore Public Service that is as rewarding
+        as it is purposeful.
   - infopic:
       id: infopic
-      description: Whether you are a fresh entry to the workforce, or making a career
-        switch, join us if you enjoy problem-solving alongside bright and
-        passionate people!
+      description: >
+        It's about shaping Singapore’s future and yours. Work in a place where
+        your passion aligns with your career.
       button: See what we do
       url: /what-we-do/explore-sectors/
       alt: Image alt text
-      title: Explore the Public Sector
+      title: It's more than just a job.
       image: /images/hero-banner.png
   - textcards:
-      title: Why join the Singapore Public Service?
+      title: One Purpose, Many Possibilities
       id: textcards
-      description: >-
-        It’s more than just a job, it’s about shaping Singapore’s future and
-        yours.
-
-        We’re passionate about improving citizen’s lives and building a better tomorrow.
+      description: "Every day in the Singapore Public Service is an opportunity to
+        contribute to something greater. Look forward to:"
       cards:
         - title: Future-ready Workforce
           description: Drive national change with cutting-edge tools, tackling challenges
