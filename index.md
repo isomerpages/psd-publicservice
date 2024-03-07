@@ -4,10 +4,10 @@ title: The Singapore Public Service
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to the new Singapore Public Service website!
+notification: Welcome to the new Careers@Gov website!
 sections:
   - hero:
-      title: One Purpose, Many Possibilities
+      title: Make A Difference Today for Tomorrow
       background: /images/Bannersample2.png
       url: /contact-us/
       variant: center
