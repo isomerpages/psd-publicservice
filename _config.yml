@@ -1,21 +1,22 @@
-title: The Singapore Public Service
+title: Careeres@Gov
 url: https://publicservice.gov.sg
 favicon: /images/Careers_Gov__16_.png
 colors:
-  primary-color: "#a90015"
-  secondary-color: "#a90015"
+  primary-color: "#11bcbc"
+  secondary-color: "#048585"
   media-colors:
     - title: media-color-one
-      color: "#a90015"
+      color: "#11bcbc"
     - title: media-color-two
-      color: "#a90015"
+      color: "#11bcbc"
     - title: media-color-three
       color: "#4a4a4a"
     - title: media-color-four
       color: "#4a4a4a"
     - title: media-color-five
       color: "#4a4a4a"
-description: An Isomer site of the Singapore Government
+description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
+  Singapore Public Service.
 permalink: none
 baseurl: ""
 exclude:
