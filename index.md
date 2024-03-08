@@ -55,5 +55,5 @@ sections:
       button: Check out their latest stories
       url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
-      image: /images/innovation.jpg
+      image: /images/Option_2___Curious_about.png
 ---
