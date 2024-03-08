@@ -1,9 +1,9 @@
 title: Careers@Gov
 url: https://publicservice.gov.sg
-favicon: /images/Careers_Gov__16_.png
+favicon: /images/Careers_Gov__19_.png
 colors:
-  primary-color: "#11bcbc"
-  secondary-color: "#069999"
+  primary-color: "#069999"
+  secondary-color: "#11bcbc"
   media-colors:
     - title: media-color-one
       color: "#069999"
