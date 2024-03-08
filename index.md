@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Careeres@Gov
+title: Careers@Gov
 description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/isomer-logo.svg
