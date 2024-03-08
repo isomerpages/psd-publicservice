@@ -55,5 +55,5 @@ sections:
       button: Check out their latest stories
       url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
-      image: /images/hero-banner.png
+      image: /images/innovation.jpg
 ---
