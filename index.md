@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: The Singapore Public Service
-description: An Isomer site of the Singapore Government
+title: Careeres@Gov
+description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
+  Singapore Public Service.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to the new Careers@Gov website!
@@ -16,9 +17,8 @@ sections:
         as it is purposeful.
   - infopic:
       id: infopic
-      description: >
-        It's about shaping Singapore’s future and yours. Work in a place where
-        your passion aligns with your career.
+      description: It's about shaping Singapore’s future and yours. Work in a place
+        where your passion aligns with your career.
       button: See what we do
       url: /what-we-do/explore-sectors/
       alt: Image alt text
