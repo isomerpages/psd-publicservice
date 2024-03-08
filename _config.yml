@@ -3,10 +3,10 @@ url: https://publicservice.gov.sg
 favicon: /images/Careers_Gov__16_.png
 colors:
   primary-color: "#11bcbc"
-  secondary-color: "#048585"
+  secondary-color: "#11bcbc"
   media-colors:
     - title: media-color-one
-      color: "#11bcbc"
+      color: "#048585"
     - title: media-color-two
       color: "#11bcbc"
     - title: media-color-three
