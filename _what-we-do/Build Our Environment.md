@@ -4,11 +4,7 @@ permalink: /what-we-do/build-our-environment/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Build Our Environment</strong></h4>
-<p>How can we actively enhance our living environment despite our compact
-size? Promoting sustainable development, fortifying infrastructure, and
-fostering excellent connectivity, are some ways we actively shape Singapore
-into a vibrant, clean, and liveable city.</p>
+<h4>How can we actively enhance our living environment despite our compact size? Promoting sustainable development, fortifying infrastructure, and fostering excellent connectivity, are some ways we actively shape Singapore into a vibrant, clean, and liveable city.</h4>
 <p>Find out more about the various agencies that contribute to Singapore’s
 environment.</p>
 <p></p>
