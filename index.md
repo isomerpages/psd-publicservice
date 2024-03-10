@@ -23,7 +23,7 @@ sections:
       url: /what-we-do/explore-sectors/
       alt: Image alt text
       title: It's more than just a job.
-      image: /images/hero-banner.png
+      image: /images/02_mss_420x440.jpg
   - infocols:
       title: Why join us?
       subtitle: The Singapore Public Service
