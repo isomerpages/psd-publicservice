@@ -1,7 +1,7 @@
 logo: /images/Careers_Gov__18_.png
 links:
   - title: Who We Are
-    url: /who-we-are/about-us/
+    url: /about-us
   - title: What We Do
     url: /what-we-do/explore-sectors/
     sublinks:
@@ -16,6 +16,8 @@ links:
         url: /join-us/why-the-public-sector/
       - title: Find scholarships
         url: https://www.psc.gov.sg/scholarships
+      - title: What to expect
+        url: /permalink
   - title: Apply Now
     url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
   - title: FAQs
