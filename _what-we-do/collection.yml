@@ -2,10 +2,10 @@ collections:
   what-we-do:
     output: true
     order:
-      - One Purpose Many Possibilities/Administrate & Manage.md
-      - One Purpose Many Possibilities/Keep Us Secure.md
-      - One Purpose Many Possibilities/Shape Our Society.md
-      - One Purpose Many Possibilities/Grow Our Economy.md
-      - One Purpose Many Possibilities/Build Our Environment.md
-      - One Purpose Many Possibilities/One Purpose, Many Possibilities.md
       - One Purpose Many Possibilities/.keep
+      - One Purpose Many Possibilities/One Purpose, Many Possibilities.md
+      - One Purpose Many Possibilities/Build Our Environment.md
+      - One Purpose Many Possibilities/Grow Our Economy.md
+      - One Purpose Many Possibilities/Shape Our Society.md
+      - One Purpose Many Possibilities/Keep Us Secure.md
+      - One Purpose Many Possibilities/Administrate & Manage.md
