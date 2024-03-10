@@ -2,9 +2,9 @@ collections:
   what-we-do:
     output: true
     order:
-      - Administrate & Manage.md
-      - Keep Us Secure.md
-      - Shape Our Society.md
       - One Purpose, Many Possibilities.md
       - Build Our Environment.md
       - Grow Our Economy.md
+      - Shape Our Society.md
+      - Keep Us Secure.md
+      - Administrate & Manage.md
