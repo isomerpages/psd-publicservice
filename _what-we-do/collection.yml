@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Shape Our Society.md
       - One Purpose, Many Possibilities.md
       - Build Our Environment.md
       - Grow Our Economy.md
