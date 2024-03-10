@@ -24,36 +24,30 @@ sections:
       alt: Image alt text
       title: It's more than just a job.
       image: /images/hero-banner.png
-  - textcards:
-      title: One Purpose, Many Possibilities
-      id: textcards
-      description: "Every day in the Singapore Public Service is an opportunity to
-        contribute to something greater. Look forward to:"
-      cards:
-        - title: Future-ready Workforce
-          description: Drive national change with cutting-edge tools, tackling challenges
-            efficiently.
-          linktext: Learn more
-          url: ""
-        - title: Learning and Development
-          description: Grow professionally through diverse trainings and attachment
-            programmes.
-          linktext: Learn more
-          url: join-us/benefits/work-benefits
-        - title: Benefits
-          description: We offer flexible work arrangements, as well as employee wellness
-            programmes.
-          linktext: Learn more
-          url: /join-us/benefits/
+  - infocols:
+      title: Why join us?
+      subtitle: The Singapore Public Service
+      id: infocols
+      linktext: Learn more
+      url: x
+      infoboxes:
+        - title: We’re passionate about improving lives.
+          description: Your work helps to build a better tomorrow. Join a team that
+            tackles current and future challenges on a national scale.
+        - title: We invest in our people.
+          description: Grow as a professional and realise your aspirations through diverse
+            training, rotation and attachment programmes.
+        - title: Your well-being is important to us.
+          description: Enhance physical & mental health with our wellness programmes.
+            Balance work-life priorities with flexible arrangements.
   - infopic:
-      title: Innovation in the Public Sector
-      subtitle: The Challenge
+      title: Challenge
+      subtitle: The Public Service Insider
       id: infopic
-      description: The Challenge showcases innovation & creativity of public
-        servants—from work tips to humorous stories, there is something for
-        everyone!
-      button: Check out their latest stories
+      description: Curious about what working in the Public Service is like? Let
+        Challenge be your guide!
+      button: Read our latest stories
       url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
-      image: /images/Option_2___Curious_about.png
+      image: /images/agencies_1.png
 ---
