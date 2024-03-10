@@ -3,7 +3,3 @@ collections:
     output: true
     order:
       - What we offer.md
-      - Benefits/.keep
-      - Benefits/Overview.md
-      - Benefits/Work Benefits.md
-      - Benefits/Health Benefits.md
