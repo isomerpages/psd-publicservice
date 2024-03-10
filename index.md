@@ -25,8 +25,8 @@ sections:
       image: /images/02_mss_420x440.jpg
       subtitle: It's more than just a job.
   - infocols:
-      title: Why join us?
-      subtitle: The Singapore Public Service
+      title: People are at the heart of what we do
+      subtitle: Why join us?
       id: infocols
       linktext: Learn more
       url: /join-us/what-to-expect/
