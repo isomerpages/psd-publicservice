@@ -4,7 +4,7 @@ permalink: /join-us/why-the-public-sector/
 variant: tiptap
 description: ""
 ---
-<h3>Our people are the heart of the Singapore Public Service. We're dedicated to nurturing talent and empowering our officers to thrive and reach their full potential. </h3>
+<h4>Our people are the heart of the Singapore Public Service. We're dedicated to nurturing talent and empowering our officers to thrive and reach their full potential. We offer:</h4>
 <h4><strong>Growth &amp; Development</strong></h4>
 <p>We invest in our officers and help them to develop the skills and competencies
 they need to make a difference today and tomorrow. We offer:</p>
