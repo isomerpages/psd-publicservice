@@ -7,8 +7,15 @@ links:
     sublinks:
       - title: One Purpose Many Possibilities
         url: /what-we-do/explore-sectors/
+      - title: New submenu
+        url: /permalink
   - title: Join Us
-    collection: join-us
+    url: /permalink
+    sublinks:
+      - title: What we offer
+        url: /join-us/why-the-public-sector/
+      - title: Find scholarships
+        url: https://www.psc.gov.sg/scholarships
   - title: FAQs
     collection: faqs
   - title: Apply Now
