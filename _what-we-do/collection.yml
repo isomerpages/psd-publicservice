@@ -2,5 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
-      - Example Title.md
+      - Build Our Environment.md
       - Explore Sectors.md
