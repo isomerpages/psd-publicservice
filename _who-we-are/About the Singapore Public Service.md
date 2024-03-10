@@ -6,10 +6,9 @@ description: ""
 ---
 <h4>The Singapore Public Service is dedicated to improving the lives of Singaporeans.&nbsp;</h4>
 <p>The Singapore Public Service comprises 16 Ministries—forming the Civil
-Service—and more than 50 independent statutory boards (e.g. HDB, CPF Board,
-etc.). As a public officer your work will impact various facets of life
-in Singapore, spanning education and the environment, social services to
-defence, and more.</p>
+Service—and more than 50 statutory boards. As a public officer your work
+will impact various facets of life in Singapore, spanning education and
+the environment, social services to defence, and more.</p>
 <h3><strong>Our Core Values</strong></h3>
 <p>The Public Service aims to act with integrity, serve with empathy, and
 pursue excellence in all we do.</p>
