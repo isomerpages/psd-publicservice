@@ -4,10 +4,7 @@ permalink: /who-we-are/about-us/
 variant: tiptap
 description: ""
 ---
-<h3><strong>About the Singapore Public Service</strong></h3>
-<p>The <strong>Singapore Public Service</strong> is dedicated to building a
-thriving, dynamic nation and a harmonious and vibrant society, making Singapore
-the best home for current and future generations of Singaporeans.</p>
+<h4>The Singapore Public Service is dedicated to improving the lives of Singaporeans.&nbsp;</h4>
 <p>The Singapore Public Service comprises 16 Ministries—forming the Civil
 Service—and more than 50 independent statutory boards (e.g. HDB, CPF Board,
 etc.). As a public officer your work will impact various facets of life
