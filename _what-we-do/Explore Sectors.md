@@ -80,5 +80,9 @@ contributing to a consultative, customer-centric government. Be part of
 a team that shapes Singapore's success – your role awaits!</p>
 <p><strong>Find out more about the various agencies that strategise and build Singapore’s future. [link to info on MCI, PMO, MOF, PSD, SNDGG, Strategy Group - these pages should be housed under 2.2]</strong>
 </p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ye7aKg6GJsU?si=GbNM6iULwNJ_zIvP"></iframe>
+</div>
 <p><strong>&nbsp;</strong>
 </p>
