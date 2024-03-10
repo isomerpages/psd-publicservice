@@ -1,5 +1,4 @@
 collections:
   who-we-are:
     output: true
-    order:
-      - About the Singapore Public Service.md
+    order: []
