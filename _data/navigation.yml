@@ -12,10 +12,10 @@ links:
   - title: Join Us
     url: /permalink
     sublinks:
-      - title: What we offer
-        url: /join-us/why-the-public-sector/
       - title: What to expect
         url: /join-us/what-to-expect/
+      - title: What we offer
+        url: /join-us/why-the-public-sector/
       - title: Find scholarships
         url: https://www.psc.gov.sg/scholarships
   - title: Apply Now
