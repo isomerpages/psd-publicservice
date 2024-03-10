@@ -2,4 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
+      - Example Title.md
       - Explore Sectors.md
