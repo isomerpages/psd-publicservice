@@ -17,13 +17,13 @@ sections:
         as it is purposeful.
   - infopic:
       id: infopic
-      description: It's about shaping Singapore’s future and yours. Work in a place
-        where your passion aligns with your career.
+      description: Work in a place where your passion aligns with your career.
       button: See what we do
       url: /what-we-do/explore-sectors/
       alt: Image alt text
-      title: It's more than just a job.
+      title: "It's about shaping Singapore’s future and yours. "
       image: /images/02_mss_420x440.jpg
+      subtitle: It's more than just a job.
   - infocols:
       title: Why join us?
       subtitle: The Singapore Public Service
