@@ -4,7 +4,8 @@ permalink: /join-us/what-to-expect/
 variant: tiptap
 description: ""
 ---
-<h4>A meaningful career </h4>
+<h4>Discover a career that is as rewarding as it is purposeful. Whether your passion lies in education, supporting families, keeping Singapore safe or addressing climate change, we can expect:</h4>
+<h4>A meaningful career</h4>
 <p>We're passionate about improving citizens' lives and building a better
 tomorrow. Work in a team that tackles current and future challenges on
 a national scale.</p>
