@@ -21,7 +21,7 @@ sections:
       button: See what we do
       url: /what-we-do/explore-sectors/
       alt: Image alt text
-      title: "It's about shaping Singapore’s future and yours. "
+      title: It's about shaping Singapore’s future and yours.
       image: /images/02_mss_420x440.jpg
       subtitle: It's more than just a job.
   - infocols:
@@ -29,7 +29,7 @@ sections:
       subtitle: The Singapore Public Service
       id: infocols
       linktext: Learn more
-      url: x
+      url: /join-us/what-to-expect/
       infoboxes:
         - title: We’re passionate about improving lives.
           description: Your work helps to build a better tomorrow. Join a team that
