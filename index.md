@@ -5,7 +5,7 @@ description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/favicon.png
 permalink: /
-notification: Welcome to the new Careers@Gov website!
+notification: Welcome to the new Careers@Gov!
 sections:
   - hero:
       title: Make A Difference Today for Tomorrow
