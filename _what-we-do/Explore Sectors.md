@@ -4,7 +4,7 @@ permalink: /what-we-do/explore-sectors/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Whether your passion lies in education, supporting families, keeping Singapore safe, or addressing climate change, we have a role for you.&nbsp;</strong></h3>
+<h3>Whether your passion lies in education, supporting families, keeping Singapore safe, or addressing climate change, we have a role for you.&nbsp;</h3>
 <p>The roles in the Public Service are ever-evolving and diverse—you will
 be able to find one that matches your goals and aspirations. Job rotation
 and attachment opportunities are available to ensure you have the opportunity
