@@ -9,6 +9,31 @@ description: ""
 be able to find one that matches your goals and aspirations. Job rotation
 and attachment opportunities are available to ensure you have the opportunity
 to experience a variety of roles.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/build-our-environment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build Our Environment</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/build-our-environment" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Grow Our Economy</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/build-our-environment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shape Our Society</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/build-our-environment" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="d" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Keep Us Secure</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/build-our-environment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="d" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Administrate + Manage</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
 <hr>
 <h4><strong>Build Our Environment</strong></h4>
 <p>How can we actively enhance our living environment despite our compact
