@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - Grow Our Economy.md
       - Explore Sectors.md
       - Build Our Environment.md
