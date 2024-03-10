@@ -2,7 +2,7 @@ collections:
   join-us:
     output: true
     order:
-      - Why the Public Sector?.md
+      - What we offer.md
       - Benefits/.keep
       - Benefits/Overview.md
       - Benefits/Work Benefits.md
