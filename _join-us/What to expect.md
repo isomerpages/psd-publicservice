@@ -22,10 +22,10 @@ qualifications, personal attributes, and alignment with the job's requirements.
 Our goal is to ensure fair consideration, selecting the best-suited candidates
 to serve Singapore and its people.</p>
 <h4>Progression is based on your performance and ability</h4>
-<p>Progression within our ranks is based on performance and capability, with
-no bias towards seniority, nationality, or any other factors. We provide
-various career pathways, allowing individuals to tailor their journey according
-to their aspirations and interests.</p>
+<p>Progression is based on performance and capability, with no bias towards
+seniority, nationality, or any other factors. We provide various career
+pathways, allowing individuals to tailor their journey according to their
+aspirations and interests.</p>
 <h4>Career pathways to fulfil different aspirations</h4>
 <p>Whether you seek specialisation within a professional domain or leadership
 opportunities, the Public Service offers avenues for growth and development.
