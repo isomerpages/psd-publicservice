@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
-<h4>Ready to make a lasting impact on Singapore's future?</h4>
+<h4>What should Singapore’s future look like for the next generation?</h4>
 <p>Consider the Central Administration sector – a pivotal role that ensures
-our nation runs smoothly. We are seeking individuals who can drive effective
-and efficient strategies, contributing to a consultative, customer-centric
-government. Be part of a team that shapes Singapore's success – your role
-awaits!</p>
+our nation runs smoothly, now and in the years to come. We are looking
+for individuals who can drive effective and efficient strategies, contributing
+to a consultative, customer-centric government. Be part of a team that
+shapes the plans for Singapore's success.</p>
 <p>Find out more about the various agencies that strategise and build Singapore’s
 future.</p>
 <p></p>
