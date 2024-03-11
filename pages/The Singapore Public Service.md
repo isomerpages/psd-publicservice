@@ -20,7 +20,7 @@ having moral courage and being fair and impartial.</p>
 <p>Improving the lives of Singaporeans is core to the Public Service’s mission.&nbsp;Public
 officers are expected to always do what is right and reasonable with empathy
 and respect for the people that they serve, while having the overall interest
-Singapore and Singaporeans in mind.</p>
+of Singapore and Singaporeans in mind.</p>
 <h4>Excellence</h4>
 <p>The Public Service continuously seeks to improve its policies, programmes
 and people, and work as One Public Service and with partners and citizens
