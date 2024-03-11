@@ -2,5 +2,5 @@ collections:
   join-us:
     output: true
     order:
-      - What to expect.md
+      - What To Expect.md
       - What we offer.md
