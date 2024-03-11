@@ -21,7 +21,7 @@ sections:
       button: See what we do
       url: /what-we-do/explore-sectors/
       alt: Image alt text
-      title: One Purpose, Many Possibilities
+      title: One purpose, many possibilities
       image: /images/02_mss_420x440.jpg
   - infocols:
       title: It's about shaping Singapore's future and yours.
