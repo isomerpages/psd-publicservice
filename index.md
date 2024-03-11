@@ -34,7 +34,7 @@ sections:
         - title: We’re passionate about improving lives.
           description: Your work helps to build a better tomorrow. Join a team that
             tackles current and future challenges on a national scale.
-        - title: We invest in our people.
+        - title: We invest in your growth.
           description: Grow as a professional and realise your aspirations through diverse
             training, rotation and attachment programmes.
         - title: Your well-being is important to us.
