@@ -21,12 +21,11 @@ sections:
       button: See what we do
       url: /what-we-do/explore-sectors/
       alt: Image alt text
-      title: It's about shaping Singapore’s future and yours.
+      title: One Purpose, Many Possibilities
       image: /images/02_mss_420x440.jpg
-      subtitle: It's more than just a job.
   - infocols:
-      title: People are at the heart of what we do
-      subtitle: Why join us?
+      title: It's about shaping Singapore's future and yours.
+      subtitle: It's more than just a job.
       id: infocols
       linktext: Learn more
       url: /join-us/what-to-expect/
