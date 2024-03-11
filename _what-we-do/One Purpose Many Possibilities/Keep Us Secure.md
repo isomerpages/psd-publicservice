@@ -7,9 +7,8 @@ third_nav_title: One Purpose Many Possibilities
 ---
 <h4>Are you driven by the purpose of ensuring the safety and security of our community?</h4>
 <p>The security sector welcomes individuals who share our passion and commitment
-to making Singapore a haven where peaceful nights and secure neighbourhoods
-define our everyday lives. Join us in safeguarding our nation's well-being
-and creating a safer future for all.</p>
+to safeguarding Singapore’s peace and security, and creating a safer home
+for all.</p>
 <p>Find out more about the various agencies that protect and keep Singapore
 safe.</p>
 <p></p>
