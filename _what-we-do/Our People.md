@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>Read about the heart of Public Service - our people.</h3>
-<p>Visit <a href="https://psdchallenge.psd.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Challenge</a> to
-discover the latest stories about the Public Service.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/profile/making-the-switch-from-balance-sheets-to-blazing-fires" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/scdf_main.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making The Switch: From Balance Sheets To Blazing Fires</div><div class="isomer-card-description">Transitioning from the private to the public sector – and from the cooled office to the fiery outdoors – can be daunting. But since he made the career leap, Singapore Civil Defence Force Rota Commander Tan Yi Zhong has not looked back.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/profile/keeping-a-watchful-eye-on-our-weather" class="isomer-card">
 <div class="isomer-card-image">
@@ -23,4 +21,5 @@ and the impact of her work on other people and sectors.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/cuppa/i-never-thought-i-would-be-a-permanent-secretary" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/lim_wan_yong_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">“I Never Thought I Would Be A Perm Sec”</div><div class="isomer-card-description">Ms Lim Wan Yong, 2nd Permanent Secretary at the Ministry of Education (MOE) and Ministry of Social and Family Development (MSF), tells Challenge what she’s learnt from a Public Service career spanning all sectors.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
-<p></p>
+<p>Visit <a href="https://psdchallenge.psd.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Challenge</a> to
+discover the latest stories about the Public Service.</p>
