@@ -9,7 +9,7 @@ third_nav_title: One Purpose Many Possibilities
 <p>Whether your passion lies in education, supporting families, keeping Singapore
 safe, or addressing climate change, we have a role for you.&nbsp;Job rotation
 and attachment opportunities are available to ensure you have the opportunity
-to experience a variety of roles.</p>
+to grow and experience a variety of roles.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/what-we-do/build-our-environment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build Our Environment</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/what-we-do/grow-our-economy" class="isomer-card">
