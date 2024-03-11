@@ -25,7 +25,7 @@ sections:
       image: /images/02_mss_420x440.jpg
   - infocols:
       title: It's about shaping Singapore's future and yours.
-      subtitle: It's more than just a job.
+      subtitle: Why Join Us?
       id: infocols
       linktext: Learn more
       url: /join-us/what-to-expect/
