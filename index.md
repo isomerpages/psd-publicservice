@@ -23,6 +23,7 @@ sections:
       alt: Image alt text
       title: One purpose, many possibilities
       image: /images/02_mss_420x440.jpg
+      subtitle: The Singapore Public Service
   - infocols:
       title: It's about shaping Singapore's future and yours.
       subtitle: Why Join Us?
