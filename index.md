@@ -41,7 +41,7 @@ sections:
           description: Enhance physical & mental health with our wellness programmes.
             Balance work-life priorities with flexible arrangements.
   - infopic:
-      title: Challenge
+      title: Read about us on Challenge
       subtitle: The Public Service Insider
       id: infopic
       description: Curious about what working in the Public Service is like? Let
