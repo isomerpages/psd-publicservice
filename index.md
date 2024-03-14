@@ -19,7 +19,7 @@ sections:
       url: /what-we-do/explore-sectors/
       alt: Image alt text
       title: One purpose, many possibilities
-      image: /images/Screenshot_2024_03_14_at_6_10_56_PM.png
+      image: /images/02_mss_420x440.jpg
       subtitle: The Singapore Public Service
   - infocols:
       title: It's about shaping Singapore's future and yours.
