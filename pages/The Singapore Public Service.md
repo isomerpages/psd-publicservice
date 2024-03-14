@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>The Singapore Public Service is dedicated to improving the lives of Singaporeans.&nbsp;</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/370159326_631851825765897_8512270328436213311_n.jpg">
+</div>
 <p>The Singapore Public Service comprises 16 Ministries—forming the Civil
 Service—and more than 50 statutory boards. As a public officer your work
 will impact various facets of life in Singapore, spanning education and
