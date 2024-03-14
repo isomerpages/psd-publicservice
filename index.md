@@ -8,7 +8,7 @@ permalink: /
 notification: Welcome to the new Careers@Gov!
 sections:
   - hero:
-      background: /images/2.png
+      background: /images/MAKE_A_DIFFERENCE_TODAY_FOR_TOMORROW__1200_x_400_px___2_.png
       url: /contact-us/
       variant: image
       backgroundColor: gray
