@@ -8,10 +8,10 @@ permalink: /
 notification: Welcome to the new Careers@Gov!
 sections:
   - hero:
-      background: /images/CG1.png
+      background: /images/C_G_Banner_high.png
       url: /contact-us/
-      variant: side
-      backgroundColor: gray
+      variant: image
+      backgroundColor: black
       title: Make a Difference Today for Tomorrow
       subtitle: Discover a career in the Singapore Public Service that is as rewarding
         as it is purposeful.
