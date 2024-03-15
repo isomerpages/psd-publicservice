@@ -8,7 +8,7 @@ permalink: /
 notification: Welcome to the new Careers@Gov!
 sections:
   - hero:
-      background: /images/C_G_Banner_high.png
+      background: /images/cg3.png
       url: /contact-us/
       variant: center
       backgroundColor: black
