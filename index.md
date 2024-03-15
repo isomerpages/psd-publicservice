@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/C_G_Banner_high.png
       url: /contact-us/
-      variant: image
+      variant: center
       backgroundColor: black
       title: Make a Difference Today for Tomorrow
       subtitle: Discover a career in the Singapore Public Service that is as rewarding
