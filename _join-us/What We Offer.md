@@ -53,6 +53,19 @@ self and dependents</p>
 <p>As a public officer on the Medisave-cum-Subsidised Outpatient (MSO) medical
 benefits scheme, you will receive an additional 2% of your gross monthly
 salary in your Central Provident Fund Medisave Account.</p>
+<p>You will also receive a subsidy of up to S$500 per calendar year for your
+medical expenses. Any unused amount of the first S$350 subsidy will be
+credited into your Medisave account, while the remaining S$150 will be
+on a reimbursement basis.</p>
+<h4><strong>Dental Benefits</strong></h4>
+<p>You will be reimbursed 85% of your dental expenses per visit, up to S$120
+per year.</p>
+<h4><strong>Group Insurance Scheme</strong></h4>
+<p>Public officers may apply to join the Public Officers Group Insurance
+Scheme to provide additional financial security to you and your family.
+The scheme provides worldwide coverage at low premium rates against death,
+total and permanent disablement and partial and permanent disablement.</p>
 <p>
+<br>
 <br>
 </p>
