@@ -33,15 +33,16 @@ sections:
       linktext: Learn more
       url: /join-us/what-to-expect/
       infoboxes:
-        - title: We’re passionate about improving lives.
+        - title: A meaningful career
           description: Your work helps to build a better tomorrow. Join a team that
             tackles current and future challenges on a national scale.
-        - title: We invest in your growth.
-          description: Grow as a professional and realise your aspirations through diverse
-            training, rotation and attachment programmes.
+        - title: Growth and development
+          description: We invest in our people. Grow as a professional through diverse
+            opportunities like job rotations and career coaching.
         - title: Your well-being is important to us.
-          description: Enhance physical & mental health with our wellness programmes.
-            Balance work-life priorities with flexible arrangements.
+          description: >
+            Improve work-life balance with flexible work arrangements. Benefit
+            from employee wellness programmes.
   - infopic:
       title: Read about us on Challenge
       subtitle: The Public Service Insider
