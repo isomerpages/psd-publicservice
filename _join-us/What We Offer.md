@@ -19,7 +19,6 @@ sector organisations&nbsp;</p>
 </li>
 <li>
 <p>Career coaching and on-demand digital courses and development resources.</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Care for your well-being</strong></h4>
