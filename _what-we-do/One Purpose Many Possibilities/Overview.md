@@ -10,10 +10,12 @@ third_nav_title: One Purpose Many Possibilities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_14_at_6_10_56_PM.png">
 </div>
-<p>Whether your passion lies in education, supporting families, keeping Singapore
-safe, or addressing climate change, we have a role for you.&nbsp;Job rotation
-and attachment opportunities are available to ensure you have the opportunity
-to grow and experience a variety of roles.</p>
+<p>Our officers work in a diverse range of roles which create impact in various
+facets of life in Singapore. Whether your passion lies in education, supporting
+families, keeping Singapore safe, or addressing climate change, we have
+a role for you. Training, job rotation and attachment opportunities are
+available to help you develop the skills and competencies to make a difference
+today and tomorrow.&nbsp;</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/what-we-do/build-our-environment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mnd.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build Our Environment</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/what-we-do/grow-our-economy" class="isomer-card">
