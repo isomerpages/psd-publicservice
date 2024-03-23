@@ -6,6 +6,10 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>How can we actively enhance our living environment despite our compact size?</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mnd.png">
+</div>
 <p>Explore possibilities with the agencies that promote sustainable development,
 fortify infrastructure, and foster excellent connectivity to shape Singapore
 into a vibrant, clean, and liveable city.</p>
@@ -14,10 +18,6 @@ into a vibrant, clean, and liveable city.</p>
 <summary><a href="www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mnd.png">
-</div>
 <h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,9 +48,6 @@ into a vibrant, clean, and liveable city.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_orgstructure_v4.jpg">
-</div>
 <h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
