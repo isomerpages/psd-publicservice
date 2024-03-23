@@ -15,24 +15,6 @@ economy and contribute to the nation's growth. Join us to develop and implement
 systems for essential needs and propel Singapore forward.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ministry of Law</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MinLaw website, click <a href="https://www.minlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.ipos.gov.sg/" rel="noopener" target="_blank">Intellectual Property Office of Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.sla.gov.sg/" rel="noopener" target="_blank">Singapore Land Authority</a>
-</p>
-</li>
-</ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/minlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>Ministry of Manpower</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MOM website, click <a href="https://www.mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
