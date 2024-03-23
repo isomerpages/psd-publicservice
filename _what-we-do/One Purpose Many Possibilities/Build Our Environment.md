@@ -83,7 +83,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.pub.gov.sg/" rel="noopener" target="_blank">PUB, The National Water Agency</a>
+<p><a href="https://www.pub.gov.sg/" rel="noopener" target="_blank">Public Utilities Board</a>
 </p>
 </li>
 <li>
