@@ -6,24 +6,101 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>What do we want the future Singapore to look like, and what will it take for us to get there?</h4>
-<p></p>
+<p>[Image]</p>
 <p>We are looking for individuals who can drive effective strategies, manage
 resources efficiently and&nbsp; help plan for Singapore's success.</p>
-<p></p>
 <p>Explore possibilities with these agencies.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.mci.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1781636_729574900411515_3135522522447223555_o.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ministry of Communications and Information</div><div class="isomer-card-description">Infocomm Media Development Authority • Government Technology Agency • National Library Board • Personal Data Protection Commission • Cyber Security Agency of Singapore</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.mof.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1_whoweare_careers.jpg">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ministry of Communications and Information (MCI)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Visit the MCI website <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<h4>Statutory Boards</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Infocomm Media Development Authority</p>
+</li>
+<li>
+<p>Government Technology Agency</p>
+</li>
+<li>
+<p>National Library Board</p>
+</li>
+<li>
+<p>Personal Data Protection Commission</p>
+</li>
+<li>
+<p>Cyber Security Agency of Singapore</p>
+</li>
+</ul>
+<p></p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>Ministry of Finance (MOF)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Visit the MOF website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<h4>Statutory Boards</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inland Revenue Authority of Singapore</p>
+</li>
+<li>
+<p>Accounting and Corporate Regulatory Authority</p>
+</li>
+<li>
+<p>Tote Board</p>
+</li>
+<li>
+<p>Singapore Accounting Commission</p>
+</li>
+</ul>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ministry of Finance</div>
-<div class="isomer-card-description">Inland Revenue Authority of Singapore • Accounting and Corporate Regulatory
-Authority • Tote Board • Singapore Accounting Commission</div>
-<div class="isomer-card-link">Find out more</div>
+</details>
+<details class="isomer-details">
+<summary>Prime Minister's Office</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Visit the PMO website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<h4>Statutory Boards</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Prime Minister's Office</p>
+</li>
+<li>
+<p>Corrupt Practices Investigation Bureau</p>
+</li>
+<li>
+<p>Elections Department</p>
+</li>
+<li>
+<p>National Research Foundation</p>
+</li>
+<li>
+<p>National Security Coordination Secretariat</p>
+</li>
+<li>
+<p>Public Service Division</p>
+</li>
+<li>
+<p>Civil Service College</p>
+</li>
+<li>
+<p>Government Technology Agency of Singapore</p>
+</li>
+<li>
+<p>Strategy Group</p>
+</li>
+<li>
+<p>Monetary Authority of Singapore</p>
+</li>
+</ul>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.pmo.gov.sg/About-Us" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/313097172_432531565697925_5927262147686791253_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prime Minister's Office</div><div class="isomer-card-description">Corrupt Practices Investigation Bureau • Elections Department • National Research Foundation • National Security Coordination Secretariat • Public Service Division • Civil Service College • Government Technology Agency of Singapore • Strategy Group • Monetary Authority of Singapore</div><div class="isomer-card-link">Find out more</div></div></a>
+</details>
 </div>
 <p></p>
