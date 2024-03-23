@@ -137,8 +137,6 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Organs of State</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Click <a href="https://www.sgdi.gov.sg/organs-of-state" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Attorney-General's Chambers</a>
@@ -169,6 +167,8 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/organs-of-state" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 </div>
