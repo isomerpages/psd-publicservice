@@ -17,10 +17,9 @@ strengthening community bonds, and making Singaporevibrant and inclusive
 <p>Explore the possibilities with these agencies.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><a href="https://www.mccy.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Culture, Community and Youth</a>
-</summary>
+<summary>Ministry of Culture, Community and Youth (MCCY)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MCCY website, click <a href="www.mccy.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.muis.gov.sg/" rel="noopener" target="_blank">Majlis Ugama Islam Singapore</a>
@@ -43,13 +42,14 @@ strengthening community bonds, and making Singaporevibrant and inclusive
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mccy" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
-</summary>
+<summary>Ministry of Education (MOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MOE website, click <a href="www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://www.cpe.gov.sg/" rel="noopener" target="_blank">Committee for Private Education</a>
@@ -88,17 +88,22 @@ strengthening community bonds, and making Singaporevibrant and inclusive
 </p>
 </li>
 <li>
+<p><a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Skillsfuture Singapore</a>
+</p>
+</li>
+<li>
 <p><a href="http://www.tp.edu.sg/" rel="noopener" target="_blank">Temasek Polytechnic</a>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/moe" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.moh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a>
-</summary>
+<summary>Ministry of Health (MOH)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MOH website, click <a href="https://www.sgdi.gov.sg/ministries/moh" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.hpb.gov.sg/" rel="noopener" target="_blank">Health Promotion Board</a>
@@ -109,19 +114,25 @@ strengthening community bonds, and making Singaporevibrant and inclusive
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/moh" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
-</summary>
+<summary>Ministry of Social and Family Development (MSF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MSF website, click <a href="www.msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>ECDA</p>
+</li>
 <li>
 <p><a href="https://www.ncss.gov.sg/" rel="noopener" target="_blank">National Council of Social Service</a>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/msf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 </div>
