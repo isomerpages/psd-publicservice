@@ -6,7 +6,6 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>What do we want the future Singapore to look like, and what will it take for us to get there?</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
