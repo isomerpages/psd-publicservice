@@ -4,7 +4,7 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Improving the lives of Singaporeans is core to our mission.</strong></h3>
+<h3><strong>Improving the lives of Singaporeans is core to our mission</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/370159326_631851825765897_8512270328436213311_n.jpg">
