@@ -16,7 +16,7 @@ systems for essential needs and propel Singapore forward.</p>
 <details class="isomer-details">
 <summary>Ministry of Manpower (MOM)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MOM website, click <a href="https://www.mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MOM website <a href="https://www.mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.cpf.gov.sg/" rel="noopener" target="_blank">Central Provident Fund Board</a>
@@ -38,7 +38,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Trade and Industry (MTI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MTI website, click <a href="https://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MTI website <a href="https://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.a-star.edu.sg/" rel="noopener" target="_blank">Agency for Science, Technology and Research</a>
