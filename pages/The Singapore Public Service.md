@@ -52,6 +52,4 @@ a difference as a volunteer with The Astronauts Collective (TAC).</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p>
-<br>
-</p>
+<p></p>
