@@ -27,8 +27,8 @@ sections:
       image: /images/02_mss_420x440.jpg
       subtitle: The Singapore Public Service
   - infocols:
-      title: It's about shaping Singapore's future and yours.
-      subtitle: Why Join us?
+      title: Shape Singapore's future and yours with us.
+      subtitle: Why join us?
       id: infocols
       linktext: Learn more
       url: /join-us/what-to-expect/
@@ -39,7 +39,7 @@ sections:
         - title: Growth and development
           description: We invest in our people. Grow as a professional through diverse
             opportunities like job rotations and career coaching.
-        - title: Your well-being is important to us.
+        - title: Your well-being is important to us
           description: Improve work-life balance with flexible work arrangements. Benefit
             from employee wellness programmes.
   - infopic:
