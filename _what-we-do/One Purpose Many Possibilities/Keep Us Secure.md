@@ -12,8 +12,6 @@ third_nav_title: One Purpose Many Possibilities
 </div>
 <p>We welcome individuals who share our passion and commitment to safeguard
 Singapore’s peace and security, and create a safe home for all.</p>
-<p>Explore the possibilities with the agencies that protect and keep Singapore
-safe.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ministry of Defence</summary>
