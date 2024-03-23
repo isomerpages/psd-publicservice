@@ -72,14 +72,6 @@ into a vibrant, clean, and liveable city.</p>
 <summary><a href="https://mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Sustainability and the Environment</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>A clean environment, water and safe food for all. Together a liveable and sustainable Singapore.</h3>
-<p>With over 300 parks and 4 nature reserves, Singapore is a city of lush
-greenery. Keeping Singapore clean and green is an important part of our
-country's DNA. As Singapore grows and evolves, our job to is to ensure
-we are doing things right and planning ahead for environmental sustainability.</p>
-<div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k_rq9hxDD7I"></iframe>
-</div>
 <h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
