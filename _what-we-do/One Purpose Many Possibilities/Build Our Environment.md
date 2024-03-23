@@ -6,7 +6,6 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>How can we actively enhance our living environment despite our compact size?</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mnd.png">
 </div>
