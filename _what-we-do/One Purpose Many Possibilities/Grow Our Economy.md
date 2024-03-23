@@ -15,10 +15,9 @@ economy and contribute to the nation's growth. Join us to develop and implement
 systems for essential needs and propel Singapore forward.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><a href="https://www.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Law</a>
-</summary>
+<summary>Ministry of Law</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MinLaw website, click <a href="https://www.minlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ipos.gov.sg/" rel="noopener" target="_blank">Intellectual Property Office of Singapore</a>
@@ -32,10 +31,9 @@ systems for essential needs and propel Singapore forward.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Manpower</a>
-</summary>
+<summary>Ministry of Manpower</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MOM website, click <a href="https://www.mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.cpf.gov.sg/" rel="noopener" target="_blank">Central Provident Fund Board</a>
@@ -57,10 +55,9 @@ systems for essential needs and propel Singapore forward.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Trade and Industry</a>
-</summary>
+<summary>Ministry of Trade and Industry</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MTI website, click <a href="https://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.a-star.edu.sg/" rel="noopener" target="_blank">Agency for Science, Technology and Research</a>
