@@ -7,6 +7,9 @@ third_nav_title: One Purpose Many Possibilities
 ---
 <h4>What do we want the future Singapore to look like, and what will it take for us to get there?</h4>
 <p>[Image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/313097172_432531565697925_5927262147686791253_n.jpg">
+</div>
 <p>We are looking for individuals who can drive effective strategies, manage
 resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <p>Explore possibilities with these agencies.</p>
@@ -88,7 +91,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.pmo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Research Foundation </a>
+<p><a href="https://www.pmo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Research Foundation</a>
 </p>
 </li>
 <li>
@@ -112,7 +115,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.mas.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Monetary Authority of Singapore </a>
+<p><a href="https://www.mas.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Monetary Authority of Singapore</a>
 </p>
 </li>
 </ul>
