@@ -43,8 +43,6 @@ into a vibrant, clean, and liveable city.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mnd" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -69,8 +67,6 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mot" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -91,8 +87,6 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mse" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
 </div>
 </details>
 </div>
