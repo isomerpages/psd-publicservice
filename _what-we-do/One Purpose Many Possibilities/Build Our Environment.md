@@ -26,9 +26,13 @@ and Port Authority of Singapore • Public Transport Council</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ministry of National Development</summary>
+<summary><a href="www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><a href="www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mnd.png">
+</div>
 <h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
