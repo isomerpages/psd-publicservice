@@ -19,7 +19,7 @@ strengthening community bonds, and making Singapore vibrant and inclusive
 <details class="isomer-details">
 <summary>Ministry of Culture, Community and Youth (MCCY)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MCCY website, click <a href="www.mccy.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MCCY website, click <a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.muis.gov.sg/" rel="noopener" target="_blank">Majlis Ugama Islam Singapore</a>
@@ -49,7 +49,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Education (MOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MOE website, click <a href="www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MOE website, click <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://www.cpe.gov.sg/" rel="noopener" target="_blank">Committee for Private Education</a>
@@ -103,7 +103,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Health (MOH)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MOH website, click <a href="https://www.sgdi.gov.sg/ministries/moh" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MOH website, click <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.hpb.gov.sg/" rel="noopener" target="_blank">Health Promotion Board</a>
@@ -121,7 +121,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Social and Family Development (MSF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MSF website, click <a href="www.msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MSF website, click <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>
