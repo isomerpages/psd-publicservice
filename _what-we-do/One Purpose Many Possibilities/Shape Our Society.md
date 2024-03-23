@@ -50,10 +50,6 @@ see the full list of agencies.</p>
 <p>Visit the MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.cpe.gov.sg/" rel="noopener" target="_blank">Committee for Private Education</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.iseas.edu.sg/" rel="noopener" target="_blank">Institute of Southeast Asian Studies</a>
 </p>
 </li>
