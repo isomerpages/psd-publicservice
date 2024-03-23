@@ -6,13 +6,32 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>What do we want the future Singapore to look like, and what will it take for us to get there?</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/313097172_432531565697925_5927262147686791253_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1781636_729574900411515_3135522522447223555_o.jpg">
 </div>
 <p>We are looking for individuals who can drive effective strategies, manage
 resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <p>Explore possibilities with these agencies.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ministry of Law (MinLaw)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To visit the MinLaw website, click <a href="https://www.minlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.ipos.gov.sg/" rel="noopener" target="_blank">Intellectual Property Office of Singapore</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sla.gov.sg/" rel="noopener" target="_blank">Singapore Land Authority</a>
+</p>
+</li>
+</ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/minlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
+</div>
+</details>
 <details class="isomer-details">
 <summary>Ministry of Communications and Information (MCI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -115,6 +134,43 @@ see the full list of agencies.</p>
 </ul>
 <p>Click <a href="https://www.sgdi.gov.sg/ministries/pmo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 see the full list of agencies.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Organs of State</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Click <a href="https://www.sgdi.gov.sg/organs-of-state" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Attorney-General's Chambers</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ago.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Auditor-General's Office</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.iac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Industrial Arbitration Court</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.istana.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Istana</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.judiciary.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Judiciary (Family Justice Courts, State Courts, Supreme Court)</a>
+</p>
+</li>
+<li>
+<p><a href="www.parliament.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Parliament of Singapore</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.psc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Public Service Commission</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
