@@ -46,7 +46,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 <li>
-<p><a href="https://a-star.edu.sg/" rel="noopener" target="_blank">Competition and Consumer Commission of Singapore</a>
+<p><a href="http://www.cccs.gov.sg/" rel="noopener" target="_blank">Competition and Consumer Commission of Singapore</a>
 </p>
 </li>
 <li>
