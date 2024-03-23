@@ -28,7 +28,7 @@ sections:
       subtitle: The Singapore Public Service
   - infocols:
       title: It's about shaping Singapore's future and yours.
-      subtitle: Why Join Us?
+      subtitle: Why Join us?
       id: infocols
       linktext: Learn more
       url: /join-us/what-to-expect/
