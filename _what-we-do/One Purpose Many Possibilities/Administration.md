@@ -35,7 +35,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Communications and Information (MCI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MCI website, click <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>To visit the MCI website, click <a href="https://www.mci.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,7 +58,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Finance (MOF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MOF website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Visit the MOF website <a href="https://www.mof.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a><a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -163,7 +163,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 <li>
-<p><a href="www.parliament.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Parliament of Singapore</a>
+<p><a href="https://www.parliament.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Parliament of Singapore</a>
 </p>
 </li>
 <li>
