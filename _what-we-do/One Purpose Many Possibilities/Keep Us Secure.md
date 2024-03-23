@@ -11,16 +11,21 @@ third_nav_title: One Purpose Many Possibilities
 </div>
 <p>We welcome individuals who share our passion and commitment to safeguard
 Singapore’s peace and security, and create a safe home for all.</p>
+<p>Explore the possibilities with the agencies that protect and keep Singapore
+safe.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><a href="https:www.mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Defence</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Explore possibilities with the agencies that protect and keep Singapore
-safe.
-<br>
+<h4>Statutory Boards</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.dsta.gov.sg/" rel="noopener" target="_blank">Defence Science and Technology Agency</a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -34,7 +39,21 @@ safe.
 <summary><a href="https://www.mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Home Affairs</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4>Statutory Boards</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.gra.gov.sg/" class="" rel="noopener" target="_blank">Gambling Regulatory Authority</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.htx.gov.sg/" rel="noopener" target="_blank">Home Team Science and Technology Agency</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.yellowribbon.gov.sg/" rel="noopener" target="_blank">Singapore Corporation of Rehabilitative Enterprises</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
