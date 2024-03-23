@@ -4,11 +4,6 @@ links:
     collection: who-we-are
   - title: What We Do
     url: /what-we-do/explore-sectors/
-    sublinks:
-      - title: One Purpose Many Possibilities
-        url: /what-we-do/explore-sectors/
-      - title: Our People
-        url: /what-we-do/our-people/
   - title: Join Us
     url: /join-us/what-to-expect/
     sublinks:
