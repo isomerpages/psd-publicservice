@@ -1,7 +1,7 @@
 logo: /images/Careers_Gov__18_.png
 links:
   - title: Who We Are
-    url: /about-us
+    collection: who-we-are
   - title: What We Do
     url: /what-we-do/explore-sectors/
     sublinks:
