@@ -124,7 +124,8 @@ see the full list of agencies.</p>
 <p>To visit the MSF website, click <a href="www.msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ECDA</p>
+<p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.ncss.gov.sg/" rel="noopener" target="_blank">National Council of Social Service</a>
