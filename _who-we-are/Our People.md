@@ -4,7 +4,7 @@ permalink: /what-we-do/our-people/
 variant: tiptap
 description: ""
 ---
-<h3>Read about the heart of Public Service - our people.</h3>
+<h3><strong>Read about the heart of Public Service — our people</strong></h3>
 <p>Visit <em><a href="https://psdchallenge.psd.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Challenge</a></em> to
 discover the latest stories about the Public Service.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/profile/making-the-switch-from-balance-sheets-to-blazing-fires" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/scdf_main.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making The Switch: From Balance Sheets To Blazing Fires</div><div class="isomer-card-description">Transitioning from the private to the public sector – and from the cooled office to the fiery outdoors – can be daunting. But since he made the career leap, Singapore Civil Defence Force Rota Commander Tan Yi Zhong has not looked back.</div><div class="isomer-card-link">Read more</div></div></a>
