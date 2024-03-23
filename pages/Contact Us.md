@@ -4,7 +4,7 @@ permalink: /contact-us/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Mailing address</strong> </h4>
+<h4><strong>Mailing address</strong></h4>
 <p>Public Service Division
 <br>Prime Minister's Office
 <br>100 High Street #07-00
@@ -17,14 +17,6 @@ description: ""
 <p></p>
 <table>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Civil Service Internships:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.careers.gov.sg/internships@gov" rel="noopener noreferrer nofollow" target="_blank">www.careers.gov.sg/internships@gov</a></strong> &nbsp;</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Careers@Gov Contact:</p>
