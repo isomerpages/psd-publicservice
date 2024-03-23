@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
-<h4>Do you envision a more connected, resilient and united Singapore?</h4>
+<h4><strong>Do you envision a more connected, resilient and united Singapore?</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp.png">
@@ -17,7 +17,7 @@ Your efforts can make a lasting impact on our society.&nbsp;</p>
 <details class="isomer-details">
 <summary>Ministry of Culture, Community and Youth (MCCY)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MCCY website, click <a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MCCY website <a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.muis.gov.sg/" rel="noopener" target="_blank">Majlis Ugama Islam Singapore</a>
@@ -47,7 +47,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Education (MOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MOE website, click <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://www.cpe.gov.sg/" rel="noopener" target="_blank">Committee for Private Education</a>
@@ -101,7 +101,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Health (MOH)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MOH website, click <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MOH website <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.hpb.gov.sg/" rel="noopener" target="_blank">Health Promotion Board</a>
@@ -119,7 +119,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Social and Family Development (MSF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MSF website, click <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MSF website <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>
