@@ -15,7 +15,7 @@ economy and contribute to the nation's growth. Join us to develop and implement
 systems for essential needs and propel Singapore forward.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ministry of Manpower</summary>
+<summary>Ministry of Manpower (MOM)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MOM website, click <a href="https://www.mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
@@ -37,7 +37,7 @@ see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ministry of Trade and Industry</summary>
+<summary>Ministry of Trade and Industry (MTI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MTI website, click <a href="https://www.mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
