@@ -11,7 +11,6 @@ third_nav_title: One Purpose Many Possibilities
 </div>
 <p>We are looking for individuals who can drive effective strategies, manage
 resources efficiently and&nbsp;help plan for Singapore's success.</p>
-<p>Explore possibilities with these agencies.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ministry of Law (MinLaw)</summary>
