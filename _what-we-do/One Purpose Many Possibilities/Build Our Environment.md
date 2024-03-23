@@ -93,7 +93,6 @@ see the full list of agencies.</p>
 </ul>
 <p>Click <a href="https://www.sgdi.gov.sg/ministries/mse" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 see the full list of agencies.</p>
-<p></p>
 </div>
 </details>
 </div>
