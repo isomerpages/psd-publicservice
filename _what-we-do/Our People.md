@@ -26,12 +26,12 @@ and the impact of her work on other people and sectors.</div>
 <p>Since joining the National Youth Council, David Chua’s leadership style
 has taken a different path. In this interview with <em>Challenge</em>, he
 opens up on his leadership journey and his experiences with Singapore’s
-youth.</p>
+youth.
+<br>→ Read the full article on <a href="http://go.gov.sg/cuppa-david" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cuppa-david</a>
+</p>
 <div class="iframe-wrapper">
 <iframe height="473" width="840" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6F68ajeI7Tg?si=4i5fqUDx3i4yD_4f"></iframe>
 </div>
-<p>→ Read the full article on <a href="http://go.gov.sg/cuppa-david" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cuppa-david</a>
-</p>
 <p>
 <br>
 </p>
