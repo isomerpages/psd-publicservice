@@ -8,7 +8,7 @@ third_nav_title: One Purpose Many Possibilities
 <h4>What do we want the future Singapore to look like, and what will it take for us to get there?</h4>
 <p>[Image]</p>
 <p>We are looking for individuals who can drive effective strategies, manage
-resources efficiently and&nbsp; help plan for Singapore's success.</p>
+resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <p>Explore possibilities with these agencies.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
