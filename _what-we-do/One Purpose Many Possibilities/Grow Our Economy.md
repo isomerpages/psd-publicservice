@@ -6,9 +6,8 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>Want to help shape Singapore into a global talent and innovation hub?</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21.png">
 </div>
 <p>We are always looking out for passionate individuals to drive our diverse
 economy and contribute to the nation's growth. Join us to develop and implement
