@@ -36,8 +36,11 @@ sections:
         - title: A meaningful career
           description: Your work helps to build a better tomorrow. Join a team that
             tackles current and future challenges on a national scale.
+        - title: Diverse career options
+          description: Realise your aspirations with a diverse range of roles across 16
+            Ministries and more than 50 statutory boards.
         - title: Growth and development
-          description: We invest in our people. Grow as a professional through diverse
+          description: We invest in our people. Grow as a professional with our diverse
             training, job rotation and attachment opportunities.
         - title: Care for your well-being
           description: Balance your work-life priorities with our flexible work
