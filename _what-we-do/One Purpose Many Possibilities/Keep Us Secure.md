@@ -6,8 +6,9 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>Are you driven to ensure the safety and security of your community?</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/new_banner_montage_sliceda3ac9de2332a47faa123f93c468e6712.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p>We welcome individuals who share our passion and commitment to safeguard
 Singapore’s peace and security, and create a safe home for all.</p>
