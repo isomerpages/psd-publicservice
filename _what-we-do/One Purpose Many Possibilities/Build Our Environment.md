@@ -28,19 +28,9 @@ and Port Authority of Singapore • Public Transport Council</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><a href="https://www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a>
-</summary>
+<summary>Ministry of National Development</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>An endearing home, a distinctive global city</h3>
-<p>Singapore is more than just a global city: it is also the place we call
-home. Our love for the city inspires us to make the best there is for those
-who live here as well as the visitors we share it with.</p>
-<p>Our role is to develop world-class infrastructure, create a sustainable
-living environment and build cohesive communities - to realise our vision
-for Singapore.</p>
-<div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yPZocCSS--Y"></iframe>
-</div>
+<h4><a href="www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a></h4>
 <h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
