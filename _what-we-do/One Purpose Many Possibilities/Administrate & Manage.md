@@ -14,7 +14,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <details class="isomer-details">
 <summary>Ministry of Communications and Information (MCI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MCI website <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Visit the MCI website <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p></p>
 <h4>Statutory Boards</h4>
@@ -41,7 +41,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <details class="isomer-details">
 <summary>Ministry of Finance (MOF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MOF website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Visit the MOF website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p></p>
 <h4>Statutory Boards</h4>
@@ -64,7 +64,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <details class="isomer-details">
 <summary>Prime Minister's Office</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the PMO website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Visit the PMO website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p></p>
 <h4>Statutory Boards</h4>
