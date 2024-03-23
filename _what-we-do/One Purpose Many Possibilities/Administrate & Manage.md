@@ -16,31 +16,24 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <details class="isomer-details">
 <summary>Ministry of Communications and Information (MCI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MCI website <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>To visit the MCI website, click <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>
+<p><a href="https://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency of Singapore</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Technology Agency</a>
+<p><a href="https://www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>
 </p>
 </li>
 <li>
 <p><a href="https://www.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.pdpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Personal Data Protection Commission</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency of Singapore</a>
-</p>
-</li>
 </ul>
-<p></p>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mci" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -50,15 +43,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.iras.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Inland Revenue Authority of Singapore</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.acra.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Accounting and Corporate Regulatory Authority</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.toteboard.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tote Board</a>
 </p>
 </li>
 <li>
@@ -66,7 +51,15 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 <li>
+<p><a href="https://www.iras.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Inland Revenue Authority of Singapore</a>
+</p>
+</li>
+<li>
 <p><a href="http://www.customs.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Customs</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.toteboard.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tote Board</a>
 </p>
 </li>
 <li>
@@ -74,6 +67,8 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mof" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -118,6 +113,8 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/pmo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 </div>
