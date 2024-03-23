@@ -38,16 +38,16 @@ sections:
             tackles current and future challenges on a national scale.
         - title: Growth and development
           description: We invest in our people. Grow as a professional through diverse
-            opportunities like job rotations and career coaching.
-        - title: Your well-being is important to us
-          description: Improve work-life balance with flexible work arrangements. Benefit
-            from employee wellness programmes.
+            training, job rotation and attachment opportunities.
+        - title: Care for your well-being
+          description: Balance your work-life priorities with our flexible work
+            arrangements and employee wellness programmes.
   - infopic:
-      title: Read about us on Challenge
+      title: Read about us on CHALLENGE
       subtitle: The Public Service Insider
       id: infopic
       description: Curious about what working in the Public Service is like? Let
-        Challenge be your guide!
+        CHALLENGE be your guide!
       button: Read our latest stories
       url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
