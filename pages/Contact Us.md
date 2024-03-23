@@ -4,9 +4,8 @@ permalink: /contact-us/
 variant: tiptap
 description: ""
 ---
-<p><strong>Mailing address</strong>
-<br>
-<br>Public Service Division
+<h4><strong>Mailing address</strong> </h4>
+<p>Public Service Division
 <br>Prime Minister's Office
 <br>100 High Street #07-00
 <br>The Treasury
