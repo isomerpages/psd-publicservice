@@ -16,7 +16,7 @@ into a vibrant, clean, and liveable city.</p>
 <details class="isomer-details">
 <summary>Ministry of National Development (MND)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MND website, click <a href="https://www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MND website <a href="https://www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.bca.gov.sg/" rel="noopener" target="_blank">Building and Construction Authority</a>
@@ -50,7 +50,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Transport (MOT)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MOT website, click <a href="http://www.mot.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MOT website <a href="http://www.mot.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.caas.gov.sg/" rel="noopener" target="_blank">Civil Aviation Authority of Singapore</a>
@@ -76,7 +76,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Sustainability and Environment (MSE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MSE website, click <a href="https://www.mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MSE website <a href="https://www.mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.nea.gov.sg/" rel="noopener" target="_blank">National Environment Agency</a>
