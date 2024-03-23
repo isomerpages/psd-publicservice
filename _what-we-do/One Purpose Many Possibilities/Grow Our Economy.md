@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
-<h4>Want to help shape Singapore into a global talent and innovation hub?</h4>
+<h4><strong>Want to help shape Singapore into a global talent and innovation hub?</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21.png">
 </div>
