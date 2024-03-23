@@ -17,7 +17,7 @@ safe.</p>
 <details class="isomer-details">
 <summary>Ministry of Defence</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MINDEF website, click <a href="www.mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MINDEF website, click <a href="https://www.mindef.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.dsta.gov.sg/" rel="noopener" target="_blank">Defence Science and Technology Agency</a>
@@ -31,13 +31,13 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Foreign Affairs</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MFA website, click <a href="www.mfa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MFA website, click <a href="https://www.mfa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Ministry of Home Affairs</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MHA website, click <a href="www.mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To visit the MHA website, click <a href="https://www.mha.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.cnb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Central Narcotics Bureau</a>
@@ -52,15 +52,15 @@ see the full list of agencies.</p>
 </p>
 </li>
 <li>
-<p><a href="www.ica.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Immigration &amp; Checkpoints Authority</a>
+<p><a href="https://www.ica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Immigration &amp; Checkpoints Authority</a>
 </p>
 </li>
 <li>
-<p><a href="www.scdf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Civil Defence Force</a>
+<p><a href="https://www.scdf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Civil Defence Force</a>
 </p>
 </li>
 <li>
-<p><a href="www.police.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Police Force</a>
+<p><a href="https://www.police.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Police Force</a>
 </p>
 </li>
 <li>
