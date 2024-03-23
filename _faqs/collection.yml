@@ -1,5 +1,5 @@
 collections:
-  frequently-asked-questions:
+  faqs:
     output: true
     order:
       - Application Process.md
