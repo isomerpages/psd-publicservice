@@ -16,7 +16,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <details class="isomer-details">
 <summary>Ministry of Law (MinLaw)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MinLaw website, click <a href="https://www.minlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MinLaw website <a href="https://www.minlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ipos.gov.sg/" rel="noopener" target="_blank">Intellectual Property Office of Singapore</a>
@@ -34,7 +34,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Communications and Information (MCI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MCI website, click <a href="https://www.mci.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Visit the MCI website <a href="https://www.mci.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,8 +57,7 @@ see the full list of agencies.</p>
 <details class="isomer-details">
 <summary>Ministry of Finance (MOF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MOF website <a href="https://www.mof.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a><a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+<p>Visit the MOF website <a href="https://www.mof.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.acra.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Accounting and Corporate Regulatory Authority</a>
