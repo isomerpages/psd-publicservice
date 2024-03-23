@@ -66,8 +66,7 @@ into a vibrant, clean, and liveable city.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Sustainability and the Environment</a>
-</summary>
+<summary>Ministry of Sustainability and Environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MSE website, click <a href="https://www.mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
