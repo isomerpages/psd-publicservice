@@ -23,8 +23,7 @@ Singapore’s peace and security, and create a safe home for all.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mindef" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -71,8 +70,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mha" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 </div>
