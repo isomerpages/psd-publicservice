@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - One Purpose Many Possibilities/Law & Governance.md
       - One Purpose Many Possibilities/Overview.md
       - One Purpose Many Possibilities/.keep
       - One Purpose Many Possibilities/Build Our Environment.md
