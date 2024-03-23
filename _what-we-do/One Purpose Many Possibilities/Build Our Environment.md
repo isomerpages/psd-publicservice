@@ -14,10 +14,9 @@ fortify infrastructure, and foster excellent connectivity to shape Singapore
 into a vibrant, clean, and liveable city.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><a href="www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a>
-</summary>
+<summary>Ministry of National Development</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MND website, click <a href="https://www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.bca.gov.sg/" rel="noopener" target="_blank">Building and Construction Authority</a>
@@ -43,11 +42,9 @@ into a vibrant, clean, and liveable city.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.mot.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Transport</a>
-</summary>
+<summary>Ministry of Transport</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h4>Statutory Boards</h4>
+<p>To visit the MOT website, click <a href="http://www.mot.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.lta.gov.sg/" rel="noopener" target="_blank">Land Transport Authority</a>
@@ -72,7 +69,7 @@ into a vibrant, clean, and liveable city.</p>
 <summary><a href="https://mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Sustainability and the Environment</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Statutory Boards</h4>
+<p>To visit the MSE website, click <a href="https://www.mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.nea.gov.sg/" rel="noopener" target="_blank">National Environment Agency</a>
