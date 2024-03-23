@@ -29,7 +29,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For careers support, please email <strong><a href="mailto:careers.gov@psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">careers.gov@psd.gov.sg</a></strong>.
+<p>For career support, please email <strong><a href="mailto:careers.gov@psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">careers.gov@psd.gov.sg</a></strong>.
 <br>For technical support, please email <strong><a href="mailto:careers.gov@psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">careers.gov.technicalhelp@psd.gov.sg</a></strong>.
 <br>Please submit all other feedback using this <strong><a href="https://www.careers.gov.sg/feedback" class="btn--link btn--link-text" rel="noopener noreferrer nofollow" target="">feedback form</a></strong>.</p>
 <p></p>
