@@ -6,7 +6,6 @@ description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
 <h4>What do we want the future Singapore to look like, and what will it take for us to get there?</h4>
-<p>[Image]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/313097172_432531565697925_5927262147686791253_n.jpg">
 </div>
@@ -78,7 +77,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Prime Minister's Office</summary>
+<summary>Prime Minister's Office (PMO)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Visit the PMO website <a href="https://www.pmo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
