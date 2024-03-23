@@ -31,8 +31,6 @@ systems for essential needs and propel Singapore forward.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mom" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -77,8 +75,6 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mti" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
 </div>
 </details>
 </div>
