@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - One Purpose Many Possibilities/.keep
-      - One Purpose Many Possibilities/Overview.md
       - One Purpose Many Possibilities/Build Our Environment.md
       - One Purpose Many Possibilities/Grow Our Economy.md
       - One Purpose Many Possibilities/Shape Our Society.md
