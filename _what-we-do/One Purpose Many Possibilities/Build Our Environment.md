@@ -9,21 +9,6 @@ third_nav_title: One Purpose Many Possibilities
 <p>Explore possibilities with the agencies that promote sustainable development,
 fortify infrastructure, and foster excellent connectivity to shape Singapore
 into a vibrant, clean, and liveable city.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.mnd.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mnd.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ministry of National Development</div><div class="isomer-card-description">• Building and Construction Authority • Council for Estate Agencies • Housing and Development Board • National Parks Board • Urban Redevelopment Authority</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.mot.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/banner_orgstructure_v4.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ministry of Transport</div>
-<div class="isomer-card-description">• Land Transport Authority • Civil Aviation Authority of Singapore • Maritime
-and Port Authority of Singapore • Public Transport Council</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.mse.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_03_14_at_5_35_49_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ministry of Sustainability and the Environment</div><div class="isomer-card-description">• National Environment Agency • PUB, The National Water Agency • Singapore Food Agency</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><a href="www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development</a>
@@ -62,13 +47,9 @@ and Port Authority of Singapore • Public Transport Council</div>
 <summary><a href="https://www.mot.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ministry of Transport</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>Connecting people and possibilities</h3>
-<p>More than just connecting the heartlands to the city, we help to get people
-and goods from point A to point B with ease. Our role is to ensure our
-world-class transportation system and international aviation centre continue
-to connect people and possibilities.</p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fmotsg%2Fvideos%2F559794304788426%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_orgstructure_v4.jpg">
 </div>
 <h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
