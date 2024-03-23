@@ -14,7 +14,7 @@ fortify infrastructure, and foster excellent connectivity to shape Singapore
 into a vibrant, clean, and liveable city.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ministry of National Development</summary>
+<summary>Ministry of National Development (MND)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MND website, click <a href="https://www.mnd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
@@ -31,6 +31,10 @@ into a vibrant, clean, and liveable city.</p>
 </p>
 </li>
 <li>
+<p><a href="https://www.mnd.gov.sg/mso" rel="noopener noreferrer nofollow" target="_blank">Municipal Services Office</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.nparks.gov.sg/" rel="noopener" target="_blank">National Parks Board</a>
 </p>
 </li>
@@ -39,19 +43,21 @@ into a vibrant, clean, and liveable city.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mnd" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ministry of Transport</summary>
+<summary>Ministry of Transport (MOT)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MOT website, click <a href="http://www.mot.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.lta.gov.sg/" rel="noopener" target="_blank">Land Transport Authority</a>
+<p><a href="https://www.caas.gov.sg/" rel="noopener" target="_blank">Civil Aviation Authority of Singapore</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.caas.gov.sg/" rel="noopener" target="_blank">Civil Aviation Authority of Singapore</a>
+<p><a href="https://www.lta.gov.sg/" rel="noopener" target="_blank">Land Transport Authority</a>
 </p>
 </li>
 <li>
@@ -63,10 +69,12 @@ into a vibrant, clean, and liveable city.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mot" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ministry of Sustainability and Environment</summary>
+<summary>Ministry of Sustainability and Environment (MSE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To visit the MSE website, click <a href="https://www.mse.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
@@ -83,7 +91,8 @@ into a vibrant, clean, and liveable city.</p>
 </p>
 </li>
 </ul>
-<h3></h3>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mse" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 <p></p>
 </div>
 </details>
