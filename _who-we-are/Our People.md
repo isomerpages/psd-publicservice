@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Read about the heart of Public Service — our people</strong></h3>
 <p>Visit <em><a href="https://psdchallenge.psd.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Challenge</a></em> to
 discover the latest stories about the Public Service.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/cuppa/david-chua-national-youth-council-real-grind-of-leadership" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="David" src="/images/Screenshot_2024_03_23_at_11_46_35_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Real Grind Of Leadership &amp; Journeying With Youths</div><div class="isomer-card-description">Since joining the National Youth Council, David Chua’s leadership style has taken a different path. In this interview with Challenge, he opens up on his leadership journey and his experiences with Singapore’s youth. </div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/cuppa/david-chua-national-youth-council-real-grind-of-leadership" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="David" src="/images/Screenshot_2024_03_23_at_11_46_35_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Real Grind Of Leadership &amp; Journeying With Youths</div><div class="isomer-card-description">Since joining the National Youth Council, David Chua’s leadership style has taken a different path. In this interview with Challenge, he opens up on his leadership journey and his experiences with Singapore’s youth.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/people/profile/keeping-a-watchful-eye-on-our-weather" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -40,7 +40,7 @@ looked back.</div>
 <a rel="noopener noreferrer nofollow" href="https://psdchallenge.psd.gov.sg/ideas/work-better/creating-unity-in-multi-generational-teams" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SCDF1" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="SCDF1" src="/images/Screenshot_2024_03_24_at_12_03_14_AM.png">
 </div>
 </div>
 <div class="isomer-card-body">
