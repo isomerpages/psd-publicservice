@@ -40,8 +40,7 @@ sections:
           description: We invest in our people. Grow as a professional through diverse
             opportunities like job rotations and career coaching.
         - title: Your well-being is important to us.
-          description: >
-            Improve work-life balance with flexible work arrangements. Benefit
+          description: Improve work-life balance with flexible work arrangements. Benefit
             from employee wellness programmes.
   - infopic:
       title: Read about us on Challenge
