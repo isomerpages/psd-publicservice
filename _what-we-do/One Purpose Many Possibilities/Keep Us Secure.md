@@ -14,9 +14,9 @@ third_nav_title: One Purpose Many Possibilities
 Singapore’s peace and security, and create a safe home for all.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ministry of Defence</summary>
+<summary>Ministry of Defence (MINDEF)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MINDEF website, click <a href="https://www.mindef.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MINDEF website <a href="https://www.mindef.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.dsta.gov.sg/" rel="noopener" target="_blank">Defence Science and Technology Agency</a>
@@ -28,15 +28,15 @@ see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ministry of Foreign Affairs</summary>
+<summary>Ministry of Foreign Affairs (MFA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MFA website, click <a href="https://www.mfa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MFA website <a href="https://www.mfa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ministry of Home Affairs</summary>
+<summary>Ministry of Home Affairs (MHA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To visit the MHA website, click <a href="https://www.mha.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Visit the MHA website <a href="https://www.mha.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.cnb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Central Narcotics Bureau</a>
