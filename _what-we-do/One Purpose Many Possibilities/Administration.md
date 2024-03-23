@@ -27,8 +27,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/minlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -50,8 +49,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mci" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -84,8 +82,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/mof" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -130,8 +127,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/ministries/pmo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -167,8 +163,7 @@ see the full list of agencies.</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://www.sgdi.gov.sg/organs-of-state" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-see the full list of agencies.</p>
+<p></p>
 </div>
 </details>
 </div>
