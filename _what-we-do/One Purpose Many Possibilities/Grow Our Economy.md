@@ -28,6 +28,8 @@ systems for essential needs and propel Singapore forward.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/minlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -47,11 +49,9 @@ systems for essential needs and propel Singapore forward.</p>
 <p><a href="https://www.wsg.gov.sg/" rel="noopener" target="_blank">Workforce Singapore</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.wsg.gov.sg/" rel="noopener" target="_blank">SkillsFuture Singapore</a>
-</p>
-</li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mom" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -65,10 +65,6 @@ systems for essential needs and propel Singapore forward.</p>
 </li>
 <li>
 <p><a href="https://a-star.edu.sg/" rel="noopener" target="_blank">Competition and Consumer Commission of Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.cccs.gov.sg/" rel="noopener" target="_blank">Competition and Consumer Commission of Singapore</a>
 </p>
 </li>
 <li>
@@ -100,6 +96,8 @@ systems for essential needs and propel Singapore forward.</p>
 </p>
 </li>
 </ul>
+<p>Click <a href="https://www.sgdi.gov.sg/ministries/mti" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the full list of agencies.</p>
 </div>
 </details>
 </div>
