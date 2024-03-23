@@ -14,13 +14,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: careers.gov@psd.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: Career Support
-  - content:
-      - phone: ""
       - email: careers.gov.technicalhelp@psd.gov.sg
       - other: ""
     title: Technical Support
-feedback: ""
+feedback: https://www.careers.gov.sg/feedback
 ---
