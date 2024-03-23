@@ -8,9 +8,9 @@ description: ""
 <h4><strong>A meaningful career</strong></h4>
 <p>We're passionate about improving citizens' lives and building a better
 tomorrow. Work in a team that tackles current and future challenges on
-a national scale.</p>
+a national scale, guided by the values of Integrity, Service and Excellence.</p>
 <h4><strong>Diverse career options</strong></h4>
-<p>We offer a wide rangeof career opportunities, with roles such as teachers,
+<p>We offer a wide range of career opportunities, with roles such as teachers,
 enforcement officers, urban planners, data scientists, policy makers, communications
 and engagement officers and more. We are made stronger by having officers
 from diverse backgrounds serving in these roles, who bring their own skills,
@@ -29,9 +29,10 @@ opportunities, we offer avenues for you to tailor your journey according
 to your aspirations and interests. We empower our officers to take charge
 of their career growth, and design a development plan that meets their
 goals, in partnership with their supervisors, mentors and career coaches.</p>
-<p>At the heart of it all, our aim is to build a cohesive and dedicated workforce,
-united in its mission to serve the nation and its citizens. Join us to
-improve lives and shape the future of Singapore.</p>
+<p>At the heart of it all, our aim is to build a highly competent cohesive
+and future-oriented workforce that is, united in our mission to serve Singapore
+as One Public Service. Join us to improve lives and shape the future of
+Singapore.</p>
 <p>
 <br>
 </p>
