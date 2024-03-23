@@ -9,9 +9,8 @@ description: ""
 <p>Career progression in the Public Service is based on the individual's
 performance on the job, his potential to take on greater responsibilities,
 and his character attributes (such as integrity, leadership and commitment).
-Being a scholar does not guarantee a faster career progression. Once they
-are on the job, the officer has to prove themselves through their work
-performance.</p>
+Being a scholar does not guarantee a faster career progression. Once on
+the job, officers have to prove themselves through their work performance.</p>
 <hr>
 <p><strong>How are starting salaries determined in the Public Service?</strong>
 </p>
@@ -52,13 +51,12 @@ variable salary components.</p>
 work policies to help our agencies and employees work more effectively.
 FWAs refer to flexi-time (staggered work hours), flexi-place (telecommuting)
 and flexi-load (part-time).</p>
-<p>
-<br>The type of FWA that is applicable depends on the nature of the officer's
-work. For example, if an officer is involved in frontline counter duty,
-telecommuting may not be suitable for them.
+<p>The type of FWA that is applicable depends on the nature of your work.
+For example, an officer involved in frontline counter duty may not be able
+to telecommute.
 <br>
-<br>Public agencies are given autonomy and flexibility to implement the FWAs
-which best suit their organisational needs. The working arrangements are
-worked out directly between the officers and their agencies. If you wish
-to find out more about the FWAs for the post that you are interested in,
-you could check directly with the respective agency</p>
+<br>Public agencies are given the autonomy and flexibility to implement the
+FWAs which best suit their organisational needs. The working arrangements
+are worked out directly between the officers and their agencies. If you
+wish to find out more about the FWAs for the post that you are interested
+in, check directly with the respective agency.</p>
