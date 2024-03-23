@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: One Purpose Many Possibilities
 ---
-<h4>Are you driven to ensure the safety and security of your community?</h4>
+<h4><strong>Are you driven to ensure the safety and security of your community?</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
