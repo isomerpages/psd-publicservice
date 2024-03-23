@@ -16,23 +16,26 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Visit the MCI website <a href="www.mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p></p>
-<h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Infocomm Media Development Authority</p>
+<p><a href="https://www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>
+</p>
 </li>
 <li>
-<p>Government Technology Agency</p>
+<p><a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Technology Agency</a>
+</p>
 </li>
 <li>
-<p>National Library Board</p>
+<p><a href="https://www.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a>
+</p>
 </li>
 <li>
-<p>Personal Data Protection Commission</p>
+<p><a href="https://www.pdpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Personal Data Protection Commission</a>
+</p>
 </li>
 <li>
-<p>Cyber Security Agency of Singapore</p>
+<p><a href="https://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency of Singapore</a>
+</p>
 </li>
 </ul>
 <p></p>
@@ -43,20 +46,30 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Visit the MOF website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p></p>
-<h4>Statutory Boards</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inland Revenue Authority of Singapore</p>
+<p><a href="https://www.iras.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Inland Revenue Authority of Singapore</a>
+</p>
 </li>
 <li>
-<p>Accounting and Corporate Regulatory Authority</p>
+<p><a href="https://www.acra.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Accounting and Corporate Regulatory Authority</a>
+</p>
 </li>
 <li>
-<p>Tote Board</p>
+<p><a href="https://www.toteboard.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tote Board</a>
+</p>
 </li>
 <li>
-<p>Singapore Accounting Commission</p>
+<p><a href="http://www.agd.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Accountant-General's Department</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.customs.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Customs</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.vital.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Vital</a>
+</p>
 </li>
 </ul>
 </div>
@@ -64,40 +77,43 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 <details class="isomer-details">
 <summary>Prime Minister's Office</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the PMO website <a href="www.mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
-<p></p>
-<h4>Statutory Boards</h4>
+<p>Visit the PMO website <a href="https://www.pmo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Prime Minister's Office</p>
+<p><a href="https://www.cpib.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Corrupt Practices Investigation Bureau</a>
+</p>
 </li>
 <li>
-<p>Corrupt Practices Investigation Bureau</p>
+<p><a href="https://www.eld.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Elections Department</a>
+</p>
 </li>
 <li>
-<p>Elections Department</p>
+<p><a href="https://www.pmo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Research Foundation </a>
+</p>
 </li>
 <li>
-<p>National Research Foundation</p>
+<p><a href="https://www.nscs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">National Security Coordination Secretariat</a>
+</p>
 </li>
 <li>
-<p>National Security Coordination Secretariat</p>
+<p><a href="https://www.psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Public Service Division</a>
+</p>
 </li>
 <li>
-<p>Public Service Division</p>
+<p><a href="https://www.csc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Civil Service College</a>
+</p>
 </li>
 <li>
-<p>Civil Service College</p>
+<p><a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Government Technology Agency</a>
+</p>
 </li>
 <li>
-<p>Government Technology Agency of Singapore</p>
+<p><a href="https://www.strategygroup.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Strategy Group</a>
+</p>
 </li>
 <li>
-<p>Strategy Group</p>
-</li>
-<li>
-<p>Monetary Authority of Singapore</p>
+<p><a href="https://www.mas.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Monetary Authority of Singapore </a>
+</p>
 </li>
 </ul>
 </div>
