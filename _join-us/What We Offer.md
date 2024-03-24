@@ -21,8 +21,10 @@ programmes, including to the private and people sectors.</p>
 <p>We encourage a strong culture of care and support across the Public Service.
 Benefit from support for your physical and mental well-being, with our
 employee wellness programmes, workshops and counselling services.</p>
-<p>Balance your work-life priorities with flexible work arrangements (subject
-to operational needs). A network of co-working spaces around Singapore
+<p>Balance your work-life priorities with flexible work arrangements. These
+include flexi-load (e.g. part time), flexi-place (e.g. telecommuting) and
+flexi-time (e.g. staggered hours), subject to the operational requirements
+of the role and public agency. A network of co-working spaces around Singapore
 is also available for public officers to use.</p>
 <h4><strong>Fair and market-competitive salaries</strong></h4>
 <p>We pay salaries comparable to that of the private sector for employees
