@@ -40,7 +40,7 @@ these are recognised by the relevant professional bodies in Singapore.</p>
 <p><strong>What do I do if my education or employment institution is not in the list?</strong>
 </p>
 <p>If you are unable to find your educational institution or employer in
-the 'Name of . . . .' list, after clicking the binocular icon, please check
+the 'Name of . . . .' list after clicking the binocular icon, please check
 the 'Didn't find what you were looking for?' box and enter your educational
 institution's or employer's name.</p>
 <hr>
