@@ -24,14 +24,12 @@ work experience, and alignment with the job's requirements.&nbsp;</p>
 skills and competencies to take on more or greater responsibilities.&nbsp;</p>
 <h4><strong>Different pathways for different aspirations</strong></h4>
 <p>Whether you seek specialisation within a professional domain or leadership
-opportunities, we offer avenues for you to tailor your journey according
-to your aspirations and interests. We empower our officers to take charge
-of their career growth, and design a development plan that meets their
-goals, in partnership with their supervisors, mentors and career coaches.</p>
-<p>At the heart of it all, our aim is to build a highly competent cohesive
-and future-oriented workforce that is, united in our mission to serve Singapore
-as One Public Service. Join us to improve lives and shape the future of
-Singapore.</p>
+opportunities, tailor your journey according to your aspirations and interests.
+We empower our officers to take charge of their own career growth, in partnership
+with their supervisors, mentors and career coaches.</p>
+<p>At the heart of it all, our aim is to build a highly competent and future-oriented
+workforce that is united in our mission to serve Singapore as One Public
+Service. Join us to improve lives and shape the future of Singapore.</p>
 <p>
 <br>
 </p>
