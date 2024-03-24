@@ -33,35 +33,25 @@ with similar competencies and responsibilities.&nbsp;</p>
 monthly and annual salary components. Some agencies provide additional
 remuneration based on the unique nature or requirements of the job. Vital
 contributions are also acknowledged through recognition awards.</p>
-<h4><strong>Leave Benefits</strong></h4>
+<h4><strong>Leave benefits</strong></h4>
 <p>Public officers enjoy a wide range of leave benefits. These include vacation,
 medical, study, marriage, maternity, paternity, childcare, and parent-care
 leave.</p>
-<h4><strong>Medical Benefits</strong></h4>
-<ul>
-<li>
-<p>Reimbursement of unused subsidy into Medisave account.</p>
-</li>
-<li>
-<p>Discounted premiums to Integrated Shield Plans and Term insurance for
-self and dependents</p>
-</li>
-</ul>
-<p>As a public officer on the Medisave-cum-Subsidised Outpatient (MSO) medical
-benefits scheme, you will receive an additional 2% of your gross monthly
-salary in your Central Provident Fund Medisave Account.</p>
+<h4><strong>Medical benefits</strong></h4>
+<p>As a public officer, you will receive an additional 2 per cent of your
+gross monthly salary in your Central Provident Fund Medisave Account.</p>
 <p>You will also receive a subsidy of up to S$500 per calendar year for your
 medical expenses. Any unused amount of the first S$350 subsidy will be
 credited into your Medisave account, while the remaining S$150 will be
 on a reimbursement basis.</p>
 <h4><strong>Dental Benefits</strong></h4>
-<p>You will be reimbursed 85% of your dental expenses per visit, up to S$120
-per year.</p>
+<p>You will be reimbursed 85 per cent of your dental expenses per visit,
+up to S$120 per year.</p>
 <h4><strong>Group Insurance Scheme</strong></h4>
-<p>Public officers may apply to join the Public Officers Group Insurance
+<p>As a public officer, you may apply to join the Public Officers Group Insurance
 Scheme to provide additional financial security to you and your family.
 The scheme provides worldwide coverage at low premium rates against death,
-total and permanent disablement and partial and permanent disablement.</p>
+and permanent disablement.</p>
 <p>
 <br>
 <br>
