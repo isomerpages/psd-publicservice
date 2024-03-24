@@ -39,7 +39,7 @@ sections:
         - title: Diverse career options
           description: Realise your aspirations with a diverse range of roles across 16
             Ministries and more than 50 statutory boards.
-        - title: Growth and development
+        - title: Commitment to your growth
           description: We invest in our people. Grow as a professional with our diverse
             training, job rotation and attachment opportunities.
         - title: Care for your well-being
