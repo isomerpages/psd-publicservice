@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>How do I check my application status?</strong>
 </p>
-<p>Login to your Careers@Gov account, go to Manage Application and click
+<p>Log in to your Careers@Gov account, go to Manage Application and click
 the All tab.</p>
 <hr>
 <p><strong>When will I get a response for my job application?</strong>
