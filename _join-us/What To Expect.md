@@ -21,8 +21,7 @@ are shortlisted based on a holistic review of their relevant skills, competencie
 work experience, and alignment with the job's requirements.&nbsp;</p>
 <h4><strong>Progression based on performance and competencies</strong></h4>
 <p>Your career progression will be based on your performance and demonstrated
-skills and competencies to take on more or greater responsibilities. It
-is not based on seniority, nationality, or any other factors.&nbsp;</p>
+skills and competencies to take on more or greater responsibilities.&nbsp;</p>
 <h4><strong>Different pathways for different aspirations</strong></h4>
 <p>Whether you seek specialisation within a professional domain or leadership
 opportunities, we offer avenues for you to tailor your journey according
