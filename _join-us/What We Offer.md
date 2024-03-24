@@ -14,10 +14,6 @@ they need to make a difference today and tomorrow. We offer:</p>
 programmes, including to the private and people sectors.</p>
 </li>
 <li>
-<p>40 hours of time off for developmental activities with private or people
-sector organisations&nbsp;</p>
-</li>
-<li>
 <p>Career coaching and on-demand digital courses and development resources.</p>
 </li>
 </ul>
