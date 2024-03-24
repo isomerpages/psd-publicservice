@@ -1,4 +1,5 @@
 collections:
   temporary-pages:
     output: true
-    order: []
+    order:
+      - We have moved.md
