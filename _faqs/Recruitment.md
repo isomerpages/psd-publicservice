@@ -15,8 +15,8 @@ in the relevant field of study.</p>
 <p><strong>Is it true that the Public Service is interested in recruiting only fresh graduates?</strong>
 </p>
 <p>We want to recruit outstanding talent at all job levels. We welcome both
-fresh graduates and mid-career candidates who can&nbsp; provide different
-perspectives, experiences and knowledge to join us. .</p>
+fresh graduates and mid-career candidates who can provide different perspectives,
+experiences and knowledge to join us.</p>
 <hr>
 <p><strong>Is it true that the Public Service only recruits graduates with excellent academic qualifications and/or scholars?</strong>
 </p>
