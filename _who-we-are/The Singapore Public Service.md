@@ -28,7 +28,7 @@ respect, care and concern for fellow citizens.</p>
 we do.</p>
 <h4><em>Integrity</em></h4>
 <p>We display integrity by being accountable for our words and actions, having
-the moral courage to stand up for what is right and being fair and impartial
+the moral courage to stand up for what is right, and being fair and impartial
 when carrying out our responsibilities.</p>
 <h4><em>Service</em></h4>
 <p>We do what is right and reasonable with empathy and respect for the people
