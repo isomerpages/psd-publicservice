@@ -12,17 +12,17 @@ description: ""
 <p>The Singapore Public Service employs about 152,000 public officers who
 work in 16 Ministries and more than 50 statutory boards.</p>
 <h3><strong>Our Mission</strong></h3>
-<p>We work with the elected Government to forge a common vision of Singapore's
-future among Singaporeans and transform the vision into reality. We safeguard
-the independence, sovereignty, security and prosperity of Singapore. We
-uphold justice and equality, guided by the principles of incorruptibility,
-meritocracy and impartiality.</p>
+<p>We work with the elected Government and Singaporeans to forge a common
+vision of Singapore's future and transform the vision into reality. We
+safeguard the sovereignty, security and prosperity of Singapore. We uphold
+justice and equality, guided by the principles of incorruptibility, meritocracy
+and impartiality.</p>
 <h3><strong>Our Goals</strong></h3>
-<p>We build a dynamic, successful and vibrant nation of excellence, with
-a safe, secure and stable environment. We create the best conditions for
-Singapore to succeed and for Singaporeans to attain high standards of living.
-We foster a cohesive and harmonious society, based on respect, care and
-concern for fellow citizens.</p>
+<p>We create the best conditions for Singapore to succeed, and for current
+and future generations of Singaporeans to attain high standards of living.
+We keep Singapore vibrant and inclusive, and provide a safe, secure and
+stable environment. We foster a resilient and united society, based on
+respect, care and concern for fellow citizens.</p>
 <h3><strong>Our Values</strong></h3>
 <p>We act with integrity, serve with empathy, and pursue excellence in all
 we do.</p>
