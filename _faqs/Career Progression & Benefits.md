@@ -28,7 +28,7 @@ that you are appointed to)</p>
 <hr>
 </li>
 </ul>
-<p><strong>How does the Civil Service ensure that pay is linked to performance?</strong>
+<p><strong>How does the Public Service ensure that pay is linked to performance?</strong>
 </p>
 <p>Salary components such as merit increments and performance bonuses are
 tied to an officer's assessed performance. Officers who are assessed to
