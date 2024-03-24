@@ -29,15 +29,14 @@ is also available for public officers to use.</p>
 <h4><strong>Fair and market-competitive salaries</strong></h4>
 <p>We pay salaries comparable to that of the private sector for employees
 with similar competencies and responsibilities.&nbsp;</p>
-<p>Bonuses and increments are performance-based, and not influenced by academic
-results, nationality, or years on the job. Annual packages include monthly
-and annual salary components. Some agencies provide additional remuneration
-based on the unique nature or requirements of the job. Vital contributions
-are also acknowledged through recognition awards.</p>
+<p>Bonuses and increments are performance-based. Annual packages include
+monthly and annual salary components. Some agencies provide additional
+remuneration based on the unique nature or requirements of the job. Vital
+contributions are also acknowledged through recognition awards.</p>
 <h4><strong>Leave Benefits</strong></h4>
-<p>Public officers enjoy a wide range of leave benefits. These include leave
-for vacation, medical, study, marriage, maternity, paternity, childcare,
-and parent-care...</p>
+<p>Public officers enjoy a wide range of leave benefits. These include vacation,
+medical, study, marriage, maternity, paternity, childcare, and parent-care
+leave.</p>
 <h4><strong>Medical Benefits</strong></h4>
 <ul>
 <li>
