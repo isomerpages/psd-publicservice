@@ -20,7 +20,7 @@ experiences, and perspectives to their jobs.</p>
 are shortlisted based on a holistic review of their relevant skills, competencies,
 work experience, and alignment with the job's requirements.&nbsp;</p>
 <h4><strong>Progression based on performance and competencies</strong></h4>
-<p>Your career progression will be based on your performance and demonstrated
+<p>Your career progression is based on your performance and demonstrated
 skills and competencies to take on more or greater responsibilities.&nbsp;</p>
 <h4><strong>Different pathways for different aspirations</strong></h4>
 <p>Whether you seek specialisation within a professional domain or leadership
