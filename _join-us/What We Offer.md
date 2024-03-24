@@ -44,7 +44,7 @@ gross monthly salary in your Central Provident Fund Medisave Account.</p>
 medical expenses. Any unused amount of the first S$350 subsidy will be
 credited into your Medisave account, while the remaining S$150 will be
 on a reimbursement basis.</p>
-<h4><strong>Dental Benefits</strong></h4>
+<h4><strong>Dental benefits</strong></h4>
 <p>You will be reimbursed 85 per cent of your dental expenses per visit,
 up to S$120 per year.</p>
 <h4><strong>Group Insurance Scheme</strong></h4>
