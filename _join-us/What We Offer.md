@@ -50,7 +50,7 @@ up to S$120 per year.</p>
 <h4><strong>Group Insurance Scheme</strong></h4>
 <p>As a public officer, you may apply to join the Public Officers Group Insurance
 Scheme to provide additional financial security to you and your family.
-The scheme provides worldwide coverage at low premium rates against death,
+The scheme provides worldwide coverage at low premium rates against death
 and permanent disablement.</p>
 <p>
 <br>
