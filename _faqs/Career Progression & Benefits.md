@@ -14,7 +14,7 @@ the job, officers have to prove themselves through their work performance.</p>
 <hr>
 <p><strong>How are starting salaries determined in the Public Service?</strong>
 </p>
-<p>Your starting salary would be determined based on:</p>
+<p>Your starting salary would be based on:</p>
 <ul>
 <li>
 <p>Your credentials (such as your work experience and skills)</p>
