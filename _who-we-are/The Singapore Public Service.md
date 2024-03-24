@@ -35,7 +35,7 @@ when carrying out our responsibilities.</p>
 we serve, while having the overall interest of Singapore and Singaporeans
 in mind.</p>
 <h4><em>Excellence</em></h4>
-<p>We strive to be the best that we can be in our roles and seek continuous
-improvement. We work as One Public Service and with partners and citizens
-to achieve excellence.</p>
+<p>We strive to be the best that we can be in our roles and constantly seek
+to improve. We consistently plan ahead for future challenges to ensure
+that we can continue to deliver excellent services and outcomes for Singapore.</p>
 <p></p>
