@@ -59,9 +59,7 @@ and the specific pass grades for each examination level.</p>
 <hr>
 <p><strong>Can candidates with criminal records apply for positions in the Singapore Public Service?</strong>
 </p>
-<p>We welcome all to apply. Selection will be based on best fit for the job.
-You need not declare criminal records when applying for a job in the Civil
-Service</p>
+<p>We welcome all to apply. Selection will be based on best fit for the job.</p>
 <hr>
 <p><strong>Does the Singapore Public Service employ non-Singaporeans?</strong>
 </p>
