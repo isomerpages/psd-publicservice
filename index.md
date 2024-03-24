@@ -22,7 +22,7 @@ sections:
       description: Work in a place where your passion aligns with your career.
       button: See what we do
       url: /what-we-do/explore-sectors/
-      alt: Image alt text
+      alt: one-purpose
       title: One purpose, many possibilities
       image: /images/many_possibilities2.gif
       subtitle: The Singapore Public Service
@@ -53,6 +53,6 @@ sections:
         CHALLENGE be your guide!
       button: Read our latest stories
       url: https://psdchallenge.psd.gov.sg/
-      alt: Image alt text
+      alt: visit-challenge
       image: /images/C_G_Banner_Gif2.gif
 ---
