@@ -31,10 +31,10 @@ be given a provisional offer of appointment.</p>
 <p><strong>I currently have a registered business, which does not require much involvement and I am keen to start working again. Would I qualify for a job in the Public Service?</strong>
 </p>
 <p></p>
-<p>You can be considered for positions in the Public Service, as long as:</p>
+<p>You can be considered for positions in the Public Service as long as:</p>
 <ul>
 <li>
-<p>Your personal activities/business do not affect or influence your performance
+<p>Your personal activities/business does not affect or influence the performance
 of your official duties;</p>
 </li>
 <li>
@@ -47,6 +47,6 @@ disrepute.</p>
 </li>
 </ul>
 <p>The agency will make this assessment based on the post that you apply
-for. You may wish to enquire directly with the agencyif you have further
+for. You may wish to enquire directly with the agency if you have further
 queries.</p>
 <p></p>
