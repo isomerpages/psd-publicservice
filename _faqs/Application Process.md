@@ -11,10 +11,10 @@ the All tab.</p>
 <hr>
 <p><strong>When will I get a response for my job application?</strong>
 </p>
-<p>Agencies will review all job applications received and will contact shortlisted
-candidates for interviews. All applicants will generally be notified on
-whether they are shortlisted or not within 4 to 6 weeks of the closing
-date of the job posting or by the date specified in the job posting.</p>
+<p>Agencies will review all job applications and contact shortlisted candidates
+for interviews. Applicants will generally be notified on whether they are
+shortlisted within four to six weeks of the closing date of the job posting
+or by the date specified in the job posting.</p>
 <hr>
 <p><strong>Do I need to send in my curriculum vitae/resume/copies of my educational qualifications after submitting my online application?</strong>
 </p>
