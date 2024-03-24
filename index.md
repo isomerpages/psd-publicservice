@@ -54,5 +54,5 @@ sections:
       button: Read our latest stories
       url: https://psdchallenge.psd.gov.sg/
       alt: Image alt text
-      image: /images/agencies_1.png
+      image: /images/C_G_Banner_Gif2.gif
 ---
