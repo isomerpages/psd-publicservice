@@ -7,7 +7,7 @@ description: ""
 <h3>We believe in nurturing talent and empowering our officers to thrive and deliver their best for Singapore and Singaporeans. We offer:</h3>
 <h4><strong>Growth and development</strong></h4>
 <p>We invest in our officers and help them to develop the skills and competencies
-they need to make a difference today and tomorrow. We offer:</p>
+they need to make a difference today for tomorrow. We offer:</p>
 <ul>
 <li>
 <p>A diverse range of training courses, job rotation opportunities and attachment
