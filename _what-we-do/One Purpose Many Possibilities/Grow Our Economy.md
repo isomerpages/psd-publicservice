@@ -23,7 +23,7 @@ systems for essential needs and propel Singapore forward.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.sgdi.gov.sg/ministries/mom/statutory-boards/slf" rel="noopener" target="_blank">Singapore Labour Foundation</a>
+<p><a href="https://www.ntuc.org.sg/uportal/about-us/related-organisations/singapore-labour-foundation" rel="noopener" target="_blank">Singapore Labour Foundation</a>
 </p>
 </li>
 <li>
@@ -59,7 +59,7 @@ systems for essential needs and propel Singapore forward.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.hlb.gov.sg/" rel="noopener" target="_blank">Hotel Licensing Board</a>
+<p><a href="https://www.hlb.gov.sg/" rel="noopener" target="_blank">Hotel Licensing Boards</a>
 </p>
 </li>
 <li>
