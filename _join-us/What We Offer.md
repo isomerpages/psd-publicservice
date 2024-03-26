@@ -34,24 +34,23 @@ monthly and annual salary components. Some agencies provide additional
 remuneration based on the unique nature or requirements of the job. Vital
 contributions are also acknowledged through recognition awards.</p>
 <h4><strong>Leave benefits</strong></h4>
-<p>Public officers enjoy a wide range of leave benefits. These include vacation,
-medical, study, marriage, maternity, paternity, childcare, and parent-care
-leave.</p>
-<h4><strong>Medical benefits</strong></h4>
-<p>As a public officer, you will receive an additional 2 per cent of your
-gross monthly salary in your Central Provident Fund Medisave Account.</p>
-<p>You will also receive a subsidy of up to S$500 per calendar year for your
-medical expenses. Any unused amount of the first S$350 subsidy will be
-credited into your Medisave account, while the remaining S$150 will be
-on a reimbursement basis.</p>
-<h4><strong>Dental benefits</strong></h4>
-<p>You will be reimbursed 85 per cent of your dental expenses per visit,
-up to S$120 per year.</p>
-<h4><strong>Group Insurance Scheme</strong></h4>
-<p>As a public officer, you may apply to join the Public Officers Group Insurance
-Scheme to provide additional financial security to you and your family.
-The scheme provides worldwide coverage at low premium rates against death
-and permanent disablement.</p>
+<p>Public officers have access to a wide range of leave benefits for personal
+and family needs.</p>
+<p>These include vacation, study, volunteering, marriage, maternity and paternity,
+child care and parent care, medical, and more,</p>
+<h4><strong>Medical and Dental benefits</strong></h4>
+<p>Public officers will receive additional Medisave contributions on their
+gross monthly salary and additional wages. This ensures continued medical
+coverage for public officers even after they leave service.</p>
+<p>Public officers also receive subsidies to offset their outpatient medical
+and dental expenses.</p>
+<h4><strong>Voluntary Group Insurance Scheme – POGIS</strong></h4>
+<p>Public officers can tap on preferential premium rates when buying term
+insurance coverage for themselves and their dependants under the Public
+Officers Group Insurance Scheme (POGIS).</p>
+<p>POGIS provides coverage for death, total and partial permanent disablement,
+with optional add-ons for critical illness, early critical illness, and
+extended years coverage.</p>
 <p>
 <br>
 <br>
