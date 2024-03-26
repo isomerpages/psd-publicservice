@@ -44,9 +44,9 @@ gross monthly salary and additional wages. This ensures continued medical
 coverage for public officers even after they leave service.</p>
 <p>Public officers also receive subsidies to offset their outpatient medical
 and dental expenses.</p>
-<h4><strong>Voluntary Group Insurance Scheme – POGIS</strong></h4>
+<h4><strong>Voluntary Group Insurance Scheme </strong></h4>
 <p>Public officers can tap on preferential premium rates when buying term
-insurance coverage for themselves and their dependants under the Public
+insurance coverage for themselves and their dependents under the Public
 Officers Group Insurance Scheme (POGIS).</p>
 <p>POGIS provides coverage for death, total and partial permanent disablement,
 with optional add-ons for critical illness, early critical illness, and
