@@ -34,11 +34,11 @@ monthly and annual salary components. Some agencies provide additional
 remuneration based on the unique nature or requirements of the job. Vital
 contributions are also acknowledged through recognition awards.</p>
 <h4><strong>Leave benefits</strong></h4>
-<p>Public officers have access to a wide range of leave benefits for personal
-and family needs.</p>
-<p>These include vacation, study, volunteering, marriage, maternity and paternity,
-child care and parent care, medical, and more,</p>
-<h4><strong>Medical and Dental benefits</strong></h4>
+<p>Public officers have a wide range of leave benefits for personal and family
+needs.</p>
+<p>These include leave for vacation, study, volunteering, marriage, maternity
+and paternity, child care and parent care, medical, and more.</p>
+<h4><strong>Medical and dental benefits</strong></h4>
 <p>Public officers will receive additional Medisave contributions on their
 gross monthly salary and additional wages. This ensures continued medical
 coverage for public officers even after they leave service.</p>
