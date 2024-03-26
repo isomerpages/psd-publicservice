@@ -39,12 +39,12 @@ needs.</p>
 <p>These include leave for vacation, study, volunteering, marriage, maternity
 and paternity, child care and parent care, medical, and more.</p>
 <h4><strong>Medical and dental benefits</strong></h4>
-<p>Public officers will receive additional Medisave contributions on their
-gross monthly salary and additional wages. This ensures continued medical
-coverage for public officers even after they leave service.</p>
+<p>Public officers receive additional Medisave contributions on their gross
+monthly salary and additional wages. This ensures continued medical coverage
+for public officers even after they leave service.</p>
 <p>Public officers also receive subsidies to offset their outpatient medical
 and dental expenses.</p>
-<h4><strong>Voluntary Group Insurance Scheme </strong></h4>
+<h4><strong>Voluntary Group Insurance Scheme</strong></h4>
 <p>Public officers can tap on preferential premium rates when buying term
 insurance coverage for themselves and their dependents under the Public
 Officers Group Insurance Scheme (POGIS).</p>
