@@ -99,7 +99,7 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.pmo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Research Foundation</a>
+<p><a href="https://www.nrf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Research Foundation</a>
 </p>
 </li>
 <li>
