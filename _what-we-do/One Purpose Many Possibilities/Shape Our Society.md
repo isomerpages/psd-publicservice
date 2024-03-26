@@ -49,7 +49,7 @@ Your efforts can make a lasting impact on our society.&nbsp;</p>
 <p>Visit the MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.iseas.edu.sg/" rel="noopener" target="_blank">Institute of Southeast Asian Studies</a>
+<p><a href="http://www.iseas.edu.sg/" rel="noopener" target="_blank">ISEAS-Yusof Ishak Institute</a>
 </p>
 </li>
 <li>
