@@ -1,0 +1,8 @@
+collections:
+  faqs:
+    output: true
+    order:
+      - Application Process.md
+      - Recruitment.md
+      - Career Progression and Benefits.md
+      - Others.md
