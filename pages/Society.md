@@ -4,5 +4,6 @@ permalink: /employer/society/
 variant: tiptap
 description: ""
 ---
-<h4>The page you are looking for has moved.</h4>
-<p>Please browse the new Careers@Gov website by using the links above.</p>
+<h4>We've recently refreshed the Careers@Gov site! Click <a href="https://www.careers.gov.sg/what-we-do/shape-our-society/" rel="noopener noreferrer nofollow" target="_blank">here</a> to continue.</h4>
+<p></p>
+<p></p>
