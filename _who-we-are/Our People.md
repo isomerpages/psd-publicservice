@@ -2,7 +2,8 @@
 title: Our People
 permalink: /what-we-do/our-people/
 variant: tiptap
-description: ""
+description: Read about the heart of the Singapore Public Service - our people.
+image: /images/313097172_432531565697925_5927262147686791253_n.jpg
 ---
 <h3><strong>Read about the heart of Public Service — our people</strong></h3>
 <p>Visit <em><a href="https://psdchallenge.psd.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Challenge</a></em> for

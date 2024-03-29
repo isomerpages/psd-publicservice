@@ -2,7 +2,8 @@
 title: What We Offer
 permalink: /join-us/what-we-offer/
 variant: tiptap
-description: ""
+description: Growth and development, care for your well-being, benefits and more.
+image: /images/02_mss_420x440.jpg
 ---
 <h3>We believe in nurturing talent and empowering our officers to thrive and deliver their best for Singapore and Singaporeans. We offer:</h3>
 <h4><strong>Growth and development</strong></h4>

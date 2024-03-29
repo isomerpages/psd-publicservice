@@ -2,7 +2,8 @@
 title: Others
 permalink: /join-us/faqs/others/
 variant: tiptap
-description: ""
+description: Find out more about the Singapore Public Service.
+image: /images/sgp.png
 ---
 <p><strong>How do I apply for internships with government agencies?</strong>
 </p>

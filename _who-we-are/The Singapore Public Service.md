@@ -2,7 +2,8 @@
 title: The Singapore Public Service
 permalink: /about-us/
 variant: tiptap
-description: ""
+description: "The Singapore Public Service: Integrity, Service, Excellence."
+image: /images/sgp.png
 ---
 <h3><strong>Improving the lives of Singaporeans is core to our mission</strong></h3>
 <p></p>

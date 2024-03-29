@@ -2,7 +2,8 @@
 title: Recruitment
 permalink: /join-us/faqs/recruitment/
 variant: tiptap
-description: ""
+description: Find out more about the recruitment process.
+image: /images/Screenshot_2024_03_14_at_6_10_56_PM.png
 ---
 <p><strong>Does the Public Service accept candidates from any discipline or do I have to specialise in a particular field?</strong>
 </p>

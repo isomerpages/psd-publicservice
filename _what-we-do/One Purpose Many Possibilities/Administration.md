@@ -2,8 +2,9 @@
 title: Administration
 permalink: /what-we-do/administrate-manage/
 variant: tiptap
-description: ""
+description: Explore roles in administration.
 third_nav_title: One Purpose Many Possibilities
+image: /images/4.png
 ---
 <h4><strong>What do we want the future Singapore to look like, and what will it take for us to get there?</strong></h4>
 <p></p>

@@ -2,8 +2,10 @@
 title: One Purpose, Many Possibilities
 permalink: /what-we-do/explore-sectors/
 variant: tiptap
-description: ""
+description: Whether your passion lies in education, supporting families,
+  keeping Singapore safe, or addressing climate change, we have a role for you.
 third_nav_title: One Purpose Many Possibilities
+image: /images/Screenshot_2024_03_14_at_6_10_56_PM.png
 ---
 <p></p>
 <div class="isomer-image-wrapper">

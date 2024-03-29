@@ -2,7 +2,8 @@
 title: Application Process
 permalink: /faqs/application-process/
 variant: tiptap
-description: ""
+description: Find out more about the application process.
+image: /images/370159326_631851825765897_8512270328436213311_n.jpg
 ---
 <p><strong>How do I check my application status?</strong>
 </p>

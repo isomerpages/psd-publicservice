@@ -2,8 +2,9 @@
 title: Build Our Environment
 permalink: /what-we-do/build-our-environment/
 variant: tiptap
-description: ""
+description: Explore roles that build our environment
 third_nav_title: One Purpose Many Possibilities
+image: /images/Screenshot_2024_03_14_at_5_35_49_PM.png
 ---
 <h4><strong>How can we actively enhance our living environment despite our compact size?</strong></h4>
 <div class="isomer-image-wrapper">

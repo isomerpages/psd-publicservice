@@ -2,7 +2,8 @@
 title: Career Progression and Benefits
 permalink: /join-us/faqs/career-progression-benefits/
 variant: tiptap
-description: ""
+description: Find out more about career progression and benefits.
+image: /images/Screenshot_2024_03_14_at_6_10_56_PM.png
 ---
 <p><strong>Is there any difference in career progression for scholars or non-scholars?</strong>
 </p>

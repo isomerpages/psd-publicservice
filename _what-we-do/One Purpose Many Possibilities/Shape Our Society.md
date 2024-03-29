@@ -2,8 +2,9 @@
 title: Shape Our Society
 permalink: /what-we-do/shape-our-society/
 variant: tiptap
-description: ""
+description: Explore roles that shape our society
 third_nav_title: One Purpose Many Possibilities
+image: /images/1.png
 ---
 <h4><strong>Do you envision a more connected, resilient and united Singapore?</strong></h4>
 <p></p>

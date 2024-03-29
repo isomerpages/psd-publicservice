@@ -2,7 +2,8 @@
 title: What To Expect
 permalink: /join-us/what-to-expect/
 variant: tiptap
-description: ""
+description: A meaningful career, diverse career options and more.
+image: /images/banner_orgstructure_v4.jpg
 ---
 <h3>Discover a career that is as rewarding as it is purposeful. Whether you are a fresh entry to the workforce, or making a career switch, you can expect:</h3>
 <h4><strong>A meaningful career</strong></h4>

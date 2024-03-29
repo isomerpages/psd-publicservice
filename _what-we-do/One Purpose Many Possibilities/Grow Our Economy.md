@@ -2,8 +2,9 @@
 title: Grow Our Economy
 permalink: /what-we-do/grow-our-economy/
 variant: tiptap
-description: ""
+description: Explore roles that grow our economy.
 third_nav_title: One Purpose Many Possibilities
+image: /images/21.png
 ---
 <h4><strong>Want to help shape Singapore into a global talent and innovation hub?</strong></h4>
 <div class="isomer-image-wrapper">

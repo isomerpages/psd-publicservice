@@ -2,8 +2,9 @@
 title: Keep Us Secure
 permalink: /what-we-do/keep-us-secure/
 variant: tiptap
-description: ""
+description: Explore roles that keep Singapore secure.
 third_nav_title: One Purpose Many Possibilities
+image: /images/3.png
 ---
 <h4><strong>Are you driven to ensure the safety and security of your community?</strong></h4>
 <p></p>
