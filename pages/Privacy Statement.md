@@ -1,8 +1,8 @@
 ---
 title: Privacy Statement
-permalink: /privacy-statement/
-variant: markdown
-description: ""
+permalink: /privacy/
+variant: tiptap
+description: Careers@Gov Privacy Statement
 ---
 ### **Government Agency Privacy Statement**
 
