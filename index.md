@@ -9,7 +9,7 @@ notification: Welcome to the new Careers@Gov website!
 sections:
   - hero:
       background: /images/cgbannernew.png
-      url: /contact-us/
+      url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
       variant: center
       backgroundColor: black
       title: Make a Difference Today for Tomorrow
@@ -17,6 +17,7 @@ sections:
         as it is purposeful.
       size: md
       alignment: left
+      button: Apply Now
   - infopic:
       id: infopic
       description: Work in a place where your passion aligns with your career.
