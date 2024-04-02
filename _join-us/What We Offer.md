@@ -41,8 +41,8 @@ needs.</p>
 and paternity, child care and parent care, medical, and more.</p>
 <h4><strong>Medical and dental benefits</strong></h4>
 <p>The Public Service makes additional contributions to public officers'
-Medisave accounts, on top of the normal statutory Medisave contributions.
-Public officers can use this to buy MediShield or portable Medisave-approved
+MediSave accounts, on top of the normal statutory MediSave contributions.
+Public officers can use this to buy MediShield or portable MediSave-approved
 insurance plans to cover their inpatient needs. This ensures continued
 medical coverage for public officers even after they leave Service.</p>
 <h4><strong>Voluntary Group Insurance Scheme</strong></h4>
