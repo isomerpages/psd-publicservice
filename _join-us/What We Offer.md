@@ -28,15 +28,14 @@ flexi-time (e.g. staggered hours), subject to the operational requirements
 of the role and public agency. A network of co-working spaces around Singapore
 is also available for public officers to use.</p>
 <h4><strong>Fair and market-competitive salaries</strong></h4>
-<p>We hire candidates on different schemes of service, based on the nature
-of the jobs they undertake. We benchmark the salaries for each scheme of
-service to the relevant talent pools in the private sector. We provide
-annual merit based increments and, where necessary, adjust salaries to
-keep pace with the market.</p>
+<p>We adopt the principles of paying clean, competitive, and performance-based
+wages, which include bonuses and other annual components.</p>
 <p></p>
-<p>These schemes of service are underpinned by the overarching principles
-of paying clean, competitive, and performance-based wage, which would include
-bonuses and other annual components.</p>
+<p>We hire candidates on different schemes of service, based on the nature
+of the jobs they undertake. Each scheme of service is benchmarked to the
+relevant talent pools in the private sector. We provide annual merit-based
+increments and, where necessary, adjust salaries to keep pace with the
+market.</p>
 <h4><strong>Leave benefits</strong></h4>
 <p>Public officers have access to a wide range of leave benefits for personal
 and family needs.</p>
