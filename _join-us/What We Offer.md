@@ -28,27 +28,35 @@ flexi-time (e.g. staggered hours), subject to the operational requirements
 of the role and public agency. A network of co-working spaces around Singapore
 is also available for public officers to use.</p>
 <h4><strong>Fair and market-competitive salaries</strong></h4>
-<p>We pay salaries comparable to that of the private sector for employees
-with similar competencies and responsibilities.&nbsp;</p>
-<p>Bonuses and increments are performance-based. Annual packages include
-monthly and annual salary components. Some agencies provide additional
-remuneration based on the unique nature or requirements of the job. Vital
-contributions are also acknowledged through recognition awards.</p>
+<p>We hire candidates on different schemes of service, based on the nature
+of the jobs they undertake. We benchmark the salaries for each scheme of
+service to the relevant talent pools in the private sector. We provide
+annual merit based increments and, where necessary, adjust salaries to
+keep pace with the market.</p>
+<p></p>
+<p>These schemes of service are underpinned by the overarching principles
+of paying clean, competitive, and performance-based wage, which would include
+bonuses and other annual components.</p>
 <h4><strong>Leave benefits</strong></h4>
-<p>Public officers have a wide range of leave benefits for personal and family
-needs.</p>
+<p>Public officers have access to a wide range of leave benefits for personal
+and family needs.</p>
 <p>These include leave for vacation, study, volunteering, marriage, maternity
 and paternity, child care and parent care, medical, and more.</p>
 <h4><strong>Medical and dental benefits</strong></h4>
 <p>The Public Service makes additional contributions to public officers'
-MediSave accounts, on top of the normal statutory MediSave contributions.
-Public officers can use this to buy MediShield or portable MediSave-approved
-insurance plans to cover their inpatient needs. This ensures continued
-medical coverage for public officers even after they leave Service.</p>
+Medisave accounts, on top of the normal statutory Medisave contributions.
+Public officers can use this to buy MediShield Life or portable Medisave-approved
+insurance plans to cover their inpatient medical needs. This is for the
+benefit of public officers as it ensures continued medical coverage even
+in the event that they decide to leave the Service.</p>
+<p></p>
+<p>Public officers also receive subsidies to offset their outpatient medical
+and dental expenses.</p>
 <h4><strong>Voluntary Group Insurance Scheme</strong></h4>
 <p>Public officers can tap on preferential premium rates when buying term
-insurance coverage for themselves and their dependents under the Public
+insurance coverage for themselves and their dependants under the Public
 Officers Group Insurance Scheme (POGIS).</p>
+<p></p>
 <p>POGIS provides coverage for death, total and partial permanent disablement,
 with optional add-ons for critical illness, early critical illness, and
 extended years coverage.</p>
