@@ -32,9 +32,9 @@ resources efficiently and&nbsp;help plan for Singapore's success.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ministry of Communications and Information (MCI)</summary>
+<summary>Ministry of Digital Development and Information (MDDI)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the MCI website <a href="https://www.mci.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Visit the MDDI website <a href="https://www.mddi.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
