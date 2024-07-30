@@ -9,7 +9,6 @@ notification: ""
 sections:
   - hero:
       background: /images/cgbannernew.png
-      url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
       variant: center
       backgroundColor: black
       title: Make a Difference Today for Tomorrow
@@ -17,7 +16,6 @@ sections:
         as it is purposeful.
       size: md
       alignment: left
-      button: Apply Now
       key_highlights:
         - title: Careers@Gov (Beta)
           description: Apply at our new site
