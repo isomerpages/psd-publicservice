@@ -18,6 +18,13 @@ sections:
       size: md
       alignment: left
       button: Apply Now
+      key_highlights:
+        - title: Careers@Gov (Beta)
+          description: Apply at our new site
+          url: https://jobs.careers.gov.sg
+        - title: Careers@Gov
+          description: Apply at our current site
+          url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
   - infopic:
       id: infopic
       description: Work in a place where your passion aligns with your career.
