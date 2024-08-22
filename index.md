@@ -21,7 +21,7 @@ sections:
       key_highlights:
         - title: Careers@Gov (Beta)
           description: Apply at our new site
-          url: ""
+          url: https://jobs.careers.gov.sg/
         - title: Careers@Gov
           description: Apply at our current site
           url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
