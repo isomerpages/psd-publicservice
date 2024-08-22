@@ -24,7 +24,7 @@ sections:
           url: https://jobs.careers.gov.sg/
         - title: Careers@Gov
           description: Apply at our current site
-          url: ""
+          url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
   - infopic:
       id: infopic
       description: Work in a place where your passion aligns with your career.
