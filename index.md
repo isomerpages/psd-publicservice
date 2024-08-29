@@ -11,7 +11,7 @@ sections:
       background: /images/cgbannernew.png
       variant: center
       backgroundColor: black
-      title: Make a Difference Today for Tomorrow
+      title: Make a Difference for Tomorrow
       subtitle: Discover a career in the Singapore Public Service that is as rewarding
         as it is purposeful.
       size: md
