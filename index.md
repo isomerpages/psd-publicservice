@@ -5,10 +5,7 @@ description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/Careers_Gov__18_.png
 permalink: /
-notification: Careers@Gov is experiencing issues with creation of new user
-  accounts. We are working to fix this. Please try again later or contact
-  support at careers.gov.technicalhelp@psd.gov.sg if you need urgent assistance.
-  We apologise for any inconvenience caused.
+notification: ""
 sections:
   - hero:
       background: /images/cgbannernew.png
