@@ -5,7 +5,8 @@ description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/Careers_Gov__18_.png
 permalink: /
-notification: ""
+notification: Careers@Gov will be down for maintenance on 27 October 2024 from
+  12:00am - 10:00am.
 sections:
   - hero:
       background: /images/cgbannernew.png
