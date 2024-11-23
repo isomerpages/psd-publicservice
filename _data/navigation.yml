@@ -15,10 +15,6 @@ links:
         url: https://www.psc.gov.sg/scholarships
   - title: Apply Now
     url: https://jobs.careers.gov.sg/
-    sublinks:
-      - title: Careers@Gov (Beta)
-        url: https://jobs.careers.gov.sg/
-      - title: Careers@Gov
-        url: https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html
+    sublinks: []
   - title: FAQs
     collection: faqs
