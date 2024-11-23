@@ -5,8 +5,7 @@ description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/Careers_Gov__18_.png
 permalink: /
-notification: The Careers@Gov job portal will be temporarily unavailable due to
-  scheduled maintenance on 27 October 2024 from 12:00am to 10:00am.
+notification: ""
 sections:
   - hero:
       background: /images/cgbannernew.png
