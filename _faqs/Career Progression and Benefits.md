@@ -5,14 +5,6 @@ variant: tiptap
 description: Find out more about career progression and benefits.
 image: /images/Screenshot_2024_03_14_at_6_10_56_PM.png
 ---
-<p><strong>Is there any difference in career progression for scholars or non-scholars?</strong>
-</p>
-<p>Career progression in the Public Service is based on the individual's
-performance on the job, his potential to take on greater responsibilities,
-and his character attributes (such as integrity, leadership and commitment).
-Being a scholar does not guarantee a faster career progression. Once on
-the job, officers have to prove themselves through their work performance.</p>
-<hr>
 <p><strong>How are starting salaries determined in the Public Service?</strong>
 </p>
 <p>Your starting salary would be based on:</p>
@@ -50,14 +42,15 @@ variable salary components.</p>
 </p>
 <p>The Public Service supports FWAs and has put in place various flexible
 work policies to help our agencies and employees work more effectively.
-FWAs refer to flexi-time (staggered work hours), flexi-place (telecommuting)
-and flexi-load (part-time).</p>
-<p>The type of FWA that is applicable depends on the nature of your work.
-For example, an officer involved in frontline counter duty may not be able
+FWAs include flexi-time (staggered work hours), flexi-place (telecommuting)
+and flexi-load (part-time) arrangements.</p>
+<p>The type of FWA that is applicable depends on the nature of the job. For
+example, an officer involved in frontline counter duty may not be able
 to telecommute.
 <br>
 <br>Public agencies are given the autonomy and flexibility to implement the
-FWAs which best suit their organisational needs. The working arrangements
-are worked out directly between the officers and their agencies. If you
-wish to find out more about the FWAs for the post that you are interested
-in, check directly with the respective agency.</p>
+FWAs which best suit their organisational needs. The arrangements are worked
+out directly between the officers and their agencies. Please check directly
+with the respective agegncy if you wish to find out more about the FWAs
+for the post that you are interested in, check directly with the respective
+agency.</p>
