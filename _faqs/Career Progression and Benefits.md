@@ -51,6 +51,6 @@ to telecommute.
 <br>Public agencies are given the autonomy and flexibility to implement the
 FWAs which best suit their organisational needs. The arrangements are worked
 out directly between the officers and their agencies. Please check directly
-with the respective agegncy if you wish to find out more about the FWAs
+with the respective agency if you wish to find out more about the FWAs
 for the post that you are interested in, check directly with the respective
 agency.</p>
