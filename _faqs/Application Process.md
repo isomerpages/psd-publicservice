@@ -5,7 +5,7 @@ variant: tiptap
 description: Find out more about the application process.
 image: /images/370159326_631851825765897_8512270328436213311_n.jpg
 ---
-<p><strong>How does the Careers@Gov sit fit in my job search process?</strong>
+<p><strong>How does the Careers@Gov site fit in my job search process?</strong>
 </p>
 <p>Our job portal gathers job openings across public service in one place
 to facilitate your job search. After you have identified the jobs you would
