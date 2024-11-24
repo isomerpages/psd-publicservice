@@ -2,8 +2,8 @@ collections:
   faqs:
     output: true
     order:
-      - Portal Updates and Features.md
       - Application Process.md
+      - Portal Updates and Features.md
       - Recruitment.md
       - Career Progression and Benefits.md
       - Others.md
