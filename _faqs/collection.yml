@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Application Process.md
+      - Portal Updates and Features.md
       - Recruitment.md
       - Career Progression and Benefits.md
       - Others.md

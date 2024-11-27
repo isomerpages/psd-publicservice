@@ -5,6 +5,24 @@ variant: tiptap
 description: Find out more about the recruitment process.
 image: /images/Screenshot_2024_03_14_at_6_10_56_PM.png
 ---
+<p><strong>What is the Public Service's recruitment philosophy?</strong>
+</p>
+<p>The Public Service works with the Government and Singaporeans to build
+a vibrant, inclusive, fair, thriving, resilient and united Singapore. To
+achieve this, we seek to recruit a diverse group of people from different
+backgrounds, who bring their skills, experiences and perspectives to their
+jobs, and have a heart for Singapore.</p>
+<p></p>
+<p>Recruitment is based on merit and objective criteria of the job, through
+fair and open competition. Candidates are assessed based on a holistic
+review of their relevant skills, competencies, work experience and alignment
+with the job's requirements.</p>
+<p></p>
+<p>Public Service agencies adhere to the Tripartite Guidelines on Fair Employment
+Practices. We do not discriminate candidates based on their nationality,
+age, sex, marital status, pregnancy status, caregiving responsibilities,
+race, religion, language, disability, and mental health conditions.</p>
+<hr>
 <p><strong>Does the Public Service accept candidates from any discipline or do I have to specialise in a particular field?</strong>
 </p>
 <p>The Public Service generally accepts candidates from all disciplines,
@@ -19,7 +37,7 @@ in the relevant field of study.</p>
 fresh graduates and mid-career candidates who can provide different perspectives,
 experiences and knowledge to join us.</p>
 <hr>
-<p><strong>Is it true that the Public Service only recruits graduates with excellent academic qualifications and/or scholars?</strong>
+<p><strong>Is it true that the Public Service only recruits graduates with excellent academic qualifications?</strong>
 </p>
 <p>The Public Service offers a wide range of jobs with different requirements.
 We take into account a variety of factors when considering candidates for
@@ -28,22 +46,14 @@ qualifications, and alignment with the job’s requirements.</p>
 <hr>
 <p><strong>How do I know whether my qualification is recognised for employment to the Public Service?</strong>
 </p>
-<p>There is no central authority that assesses or accords recognition to
-degrees for employment into the Public Service. In general, degrees from
-universities accredited by the home government of the country where the
-university is located will be considered for appointment into the Public
-Service. This applies to degrees obtained full-time or part-time, through
-distance learning or twinning programmes, etc. Each public service agency
-decides on the skills and qualifications required for their respective
-jobs. For overseas professional qualifications, agencies will check whether
-these are recognised by the relevant professional bodies in Singapore.</p>
-<hr>
-<p><strong>What do I do if my education or employment institution is not in the list?</strong>
-</p>
-<p>If you are unable to find your educational institution or employer in
-the 'Name of . . . .' list after clicking the binocular icon, please check
-the 'Didn't find what you were looking for?' box and enter your educational
-institution's or employer's name.</p>
+<p>In general, degrees from universities accredited by the home government
+of the country where the university is located will be considered for appointment
+into the Public Service. This applies to degrees obtained full-time or
+part-time, through distance learning or twinning programmes, etc. Each
+public service agency decides on the skills and qualifications required
+for their respective jobs. For overseas professional qualifications, agencies
+will check whether these are recognised by the relevant professional bodies
+in Singapore.</p>
 <hr>
 <p><strong>Is there a minimum number of passes I need in order to declare GCE ‘A’ or ‘O’ Level as my highest educational qualification?</strong>
 </p>
@@ -65,5 +75,7 @@ and the specific pass grades for each examination level.</p>
 <p><strong>Does the Singapore Public Service employ non-Singaporeans?</strong>
 </p>
 <p>Yes, non-Singaporeans can apply and be considered for jobs in the Public
-Service. They are generally hired for non-sensitive positions that are
-operational in nature or where the skills required are in shortage.</p>
+Service. Non-citizen officers generally serve in positions that require
+skills that are in shortage among our local workforce, such as engineering
+and information technology; and where the security concerns can be managed
+adequately.</p>
