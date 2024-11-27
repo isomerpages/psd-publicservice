@@ -39,7 +39,7 @@ disrepute.</p>
 for. You may wish to enquire directly with the agency if you have further
 queries.</p>
 <hr>
-<p><strong>Do I need to send in my curriculum vitae/resume/copies of my educational qualifications after submitting my online application?</strong>
+<p><strong>Do I need to send in my curriculum vitae/resumé/copies of my educational qualifications after submitting my online application?</strong>
 </p>
 <p>You do not need to send in any of the above documents at the point of
 application, unless the agency has requested for these documents to be
