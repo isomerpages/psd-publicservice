@@ -12,7 +12,7 @@ better browsing experience with more relevant job matches.</p>
 <p><strong>Can I bookmark the jobs I am interested in?</strong>
 </p>
 <p>In Careers@Gov, you can set up a user profile or log in to your existing
-one to bookmark a job that interests you. You should be able to access
+one to bookmark a job that interests you. You should also be able to access
 your previously bookmarked jobs after you log in to the job application
 portal.</p>
 <hr>
