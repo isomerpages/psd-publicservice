@@ -75,5 +75,7 @@ and the specific pass grades for each examination level.</p>
 <p><strong>Does the Singapore Public Service employ non-Singaporeans?</strong>
 </p>
 <p>Yes, non-Singaporeans can apply and be considered for jobs in the Public
-Service. They are generally hired for non-sensitive positions that are
-operational in nature or where the skills required are in shortage.</p>
+Service. Non-citizen officers generally serve in positions that require
+skills that are in shortage among our local workforce, such as engineering
+and information technology; and where the security concerns can be managed
+adequately.</p>
