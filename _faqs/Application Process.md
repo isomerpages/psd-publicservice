@@ -7,10 +7,11 @@ image: /images/370159326_631851825765897_8512270328436213311_n.jpg
 ---
 <p><strong>How does the Careers@Gov site fit in my job search process?</strong>
 </p>
-<p>Our job portal gathers job openings across public service in one place
+<p>Our job portal gathers job openings across the Public Service in one place
 to facilitate your job search. After you have identified the jobs you would
-like to apply for, you may be directed to the relevant systems to complete
-the job application process.</p>
+like to apply for, you will be directed to the relevant portal to complete
+the job application process. On these portals, you may be asked to log
+in to submit your application.</p>
 <hr>
 <p><strong>I am a final-year undergraduate who will be graduating soon. Can I submit my application for any of the on-going recruitment exercises?</strong>
 </p>
