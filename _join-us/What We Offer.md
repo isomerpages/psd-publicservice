@@ -40,7 +40,7 @@ market.</p>
 <p>Public officers have access to a wide range of leave benefits for personal
 and family needs.</p>
 <p>These include leave for vacation, study, volunteering, marriage, maternity
-and paternity, child care and parent care, medical, and more.</p>
+and paternity, child care and family care, medical, and more.</p>
 <h4><strong>Medical and dental benefits</strong></h4>
 <p>The Public Service makes additional contributions to public officers'
 Medisave accounts, on top of the normal statutory Medisave contributions.
