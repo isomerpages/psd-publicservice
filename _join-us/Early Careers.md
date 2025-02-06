@@ -21,5 +21,47 @@ reaches beyond yourself.</p>
 <p>Join a team that tackles current and future challenges on a national scale.
 Whether you’re seeking your first full-time role or an internship, the
 Singapore Public Service offers diverse opportunities to shape not just
-the future of our nation, but your own journey as well</p>
+the future of our nation, but your own journey as well.</p>
+<p></p>
+<h4><strong><u>What To Expect</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Make a tangible impact on the lives of Singaporeans</p>
+</li>
+<li>
+<p>Work on cutting-edge projects and national initiatives</p>
+</li>
+<li>
+<p>Enjoy competitive remuneration and benefits for full-time positions such
+as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Having access to a wide range of leave benefits for personal (e.g. vacation,
+study, volunteering, marriage, medical) and family needs (e.g. maternity
+/ paternity, child care and family care)*</p>
+</li>
+<li>
+<p>Flexible work arrangements*</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Access continuous learning and development opportunities from across the
+Public Service and private sector through attachment programmes and job
+rotation opportunities</p>
+</li>
+<li>
+<p>Build a versatile career with inter-agency mobility</p>
+</li>
+<li>
+<p>Learn more about our benefits here: <a href="https://www.careers.gov.sg/join-us/faqs/career-progression-benefits/" rel="noopener noreferrer nofollow" target="_blank">Career Progression and Benefits</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p>Here, your work matters. Every day, you will contribute to our shared
+purpose of building a better Singapore, guided by our core values of Integrity,
+Service, and Excellence.</p>
+<p><em>*Dependent on agency and/or operational requirements of the role&nbsp;</em>
+</p>
 <p></p>
