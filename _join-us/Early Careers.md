@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Your Public Service Career Begins Here</strong></h2>
 <h4>Shape Singapore's Future - and Yours.</h4>
 <p></p>
-<p>In the Singapore Public Service, every role is more than just a job—it’s
+<p>In the Singapore Public Service, each role is more than just a job—it’s
 an opportunity to build a better tomorrow, creating meaningful impact that
 reaches beyond yourself.</p>
 <p>Join a team that tackles current and future challenges on a national scale.
@@ -22,8 +22,8 @@ the future of our nation, but your own journey as well.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Grow and learn: </strong>Build your career through performance-based
-progression, with opportunities to specialise, lead, and gain new skills
-through courses, job rotations, and attachments in different sectors.</p>
+progression, with opportunities to lead, gain new skills through courses,
+job rotations, and attachments in different sectors.</p>
 </li>
 <li>
 <p><strong>Get career support: </strong>Receive guidance from career coaches
@@ -48,7 +48,8 @@ care and family care)</p>
 </ul>
 <hr>
 <p></p>
-<h4><strong><u>What We Look For</u></strong>We welcome individuals from all walks of life who are:</h4>
+<h4><strong><u>What We Look For</u></strong></h4>
+<p>We welcome individuals from all walks of life who are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passionate about making a difference</p>
@@ -72,8 +73,8 @@ care and family care)</p>
 year round. Applicants will generally be notified on whether they have
 been shortlisted within four to six weeks of the closing date on the job
 listing.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://jobs.careers.gov.sg/?t=Internship" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="interns" src="/images/27_Sept_2024___LAB___NLB___Shafie_35.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for Internships</div><div class="isomer-card-link">Click Here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://jobs.careers.gov.sg/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="go.gov.sg/careersgov-applyinternships" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="interns" src="/images/27_Sept_2024___LAB___NLB___Shafie_35.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for Internships</div><div class="isomer-card-link">Click Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="go.gov.sg/careersgov-applyjobs" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="=reer" src="/images/06_Nov_24___Emily_Woon_2.jpg">
@@ -98,7 +99,7 @@ and <a href="https://www.youtube.com/@sgcareersgov" rel="noopener nofollow" targ
 </p>
 </li>
 <li>
-<p>Join our outreach programmes by signing up for our <a href="https://form.gov.sg/67937d9c4ca4d4332bfea67b" rel="noopener nofollow" target="_blank">mailing list</a>
+<p>Join our outreach programmes by signing up for our <a href="go.gov.sg/careersgov-mailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
 </p>
 </li>
 <li>
