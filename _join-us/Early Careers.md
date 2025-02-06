@@ -81,7 +81,7 @@ listing.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Browse Available Job</div>
+<div class="isomer-card-title">Browse Available Jobs</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
 </a>
