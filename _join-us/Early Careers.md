@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Your Public Service Career Begins Here</strong></h2>
-<h4>Shape Singapore's Future - and Yours.</h4>
+<h4>Shape Singapore's Future — and Yours</h4>
 <p></p>
 <p>In the Singapore Public Service, each role is more than just a job—it’s
 an opportunity to build a better tomorrow, creating meaningful impact that
