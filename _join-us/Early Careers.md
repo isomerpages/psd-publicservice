@@ -48,8 +48,7 @@ care and family care)</p>
 </ul>
 <hr>
 <p></p>
-<h4><strong><u>What We Look For</u></strong></h4>
-<p>We welcome individuals from all walks of life who are:</p>
+<h4><strong><u>What We Look For</u></strong>We welcome individuals from all walks of life who are:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passionate about making a difference</p>
