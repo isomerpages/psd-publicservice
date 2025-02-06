@@ -73,8 +73,8 @@ care and family care)</p>
 year round. Applicants will generally be notified on whether they have
 been shortlisted within four to six weeks of the closing date on the job
 listing.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="go.gov.sg/careersgov-applyinternships" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="interns" src="/images/27_Sept_2024___LAB___NLB___Shafie_35.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for Internships</div><div class="isomer-card-link">Click Here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="go.gov.sg/careersgov-applyjobs" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/careersgov-applyinternships" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="interns" src="/images/27_Sept_2024___LAB___NLB___Shafie_35.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for Internships</div><div class="isomer-card-link">Click Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://go.gov.sg/careersgov-applyjobs" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="=reer" src="/images/06_Nov_24___Emily_Woon_2.jpg">
@@ -99,7 +99,7 @@ and <a href="https://www.youtube.com/@sgcareersgov" rel="noopener nofollow" targ
 </p>
 </li>
 <li>
-<p>Join our outreach programmes by signing up for our <a href="go.gov.sg/careersgov-mailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
+<p>Join our outreach programmes by signing up for our <a href="http://go.gov.sg/careersgov-mailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
 </p>
 </li>
 <li>
