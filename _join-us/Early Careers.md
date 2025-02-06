@@ -22,6 +22,7 @@ reaches beyond yourself.</p>
 Whether you’re seeking your first full-time role or an internship, the
 Singapore Public Service offers diverse opportunities to shape not just
 the future of our nation, but your own journey as well.</p>
+<hr>
 <p></p>
 <h4><strong><u>What To Expect</u></strong></h4>
 <ul data-tight="true" class="tight">
@@ -56,12 +57,58 @@ rotation opportunities</p>
 <li>
 <p>Learn more about our benefits here: <a href="https://www.careers.gov.sg/join-us/faqs/career-progression-benefits/" rel="noopener noreferrer nofollow" target="_blank">Career Progression and Benefits</a>
 </p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p>Here, your work matters. Every day, you will contribute to our shared
 purpose of building a better Singapore, guided by our core values of Integrity,
 Service, and Excellence.</p>
 <p><em>*Dependent on agency and/or operational requirements of the role&nbsp;</em>
 </p>
+<hr>
+<p></p>
+<h4><strong><u>What We Look For</u></strong></h4>
+<p>We welcome individuals from all walks of life who are:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
