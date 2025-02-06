@@ -177,8 +177,9 @@ skills, experiences and perspectives to their job.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>For Entry-Level Positions:</strong> If you are a final-year undergraduate
-graduating soon, you may start applying for any on-going recruitment exercises.
-If you are found suitable, you may be given a provisional offer of appointment.</p>
+graduating soon, you may start applying through any on-going recruitment
+exercises. If you are found suitable, you may be given a provisional offer
+of appointment.</p>
 <p></p>
 <p><strong>For Internships: </strong>Applications for internships are open
 year-round and are typically posted three to six months before the start
