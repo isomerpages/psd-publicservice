@@ -73,10 +73,15 @@ care and family care)</p>
 year round. Applicants will generally be notified on whether they have
 been shortlisted within four to six weeks of the closing date on the job
 listing.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://jobs.careers.gov.sg/?t=Internship" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apply for Internships</div><div class="isomer-card-link">Click Here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://jobs.careers.gov.sg/?t=Internship" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="interns" src="/images/27_Sept_2024___LAB___NLB___Shafie_35.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for Internships</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://jobs.careers.gov.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="=reer" src="/images/06_Nov_24___Emily_Woon_2.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Browse Available Jobs</div>
+<div class="isomer-card-title">Browse Available Job</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
 </a>
