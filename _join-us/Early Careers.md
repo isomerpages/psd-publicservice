@@ -90,7 +90,7 @@ listing.</p>
 <hr>
 <h4><strong><u>Connect With Us</u></strong></h4>
 <p>Stay updated on how you can be part of our mission to Make a Difference
-Today for Tomorrow:</p>
+for Tomorrow:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Follow us on <a href="https://www.instagram.com/careersgov/" rel="noopener nofollow" target="_blank">Instagram</a>,
