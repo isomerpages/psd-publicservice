@@ -40,7 +40,7 @@ available for public officers to use.</p>
 <p><strong>Competitive remuneration and benefits</strong>: Access a wide
 range of leave benefits for personal (e.g. vacation, study, volunteering,
 marriage, medical) and family needs (e.g. maternity / paternity, child
-care and family care)</p>
+care and family care).</p>
 <p></p>
 <p>Learn more - <a href="https://www.careers.gov.sg/join-us/faqs/career-progression-benefits/" rel="noopener noreferrer nofollow" target="_blank">Career Progression and Benefits</a>
 </p>
@@ -64,7 +64,7 @@ care and family care)</p>
 <p>Collaborative team players who strive for excellence</p>
 </li>
 <li>
-<p>Committed to continuous learning and personal growth</p>
+<p>Committed to continuous learning and personal growth.</p>
 </li>
 </ul>
 <hr>
@@ -103,7 +103,7 @@ and <a href="https://www.youtube.com/@sgcareersgov" rel="noopener nofollow" targ
 </p>
 </li>
 <li>
-<p>Meet us at upcoming career fairs</p>
+<p>Meet us at upcoming career fairs.</p>
 <p></p>
 </li>
 </ul>
@@ -155,7 +155,7 @@ is required.</p>
 that you are appointed to)</p>
 </li>
 <li>
-<p>The prevailing labour market conditions</p>
+<p>The prevailing labour market conditions.</p>
 </li>
 </ul>
 <p></p>
