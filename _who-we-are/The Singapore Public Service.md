@@ -10,8 +10,9 @@ image: /images/sgp.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/370159326_631851825765897_8512270328436213311_n.jpg">
 </div>
-<p>The Singapore Public Service employs about 152,000 public officers who
-work in 16 Ministries and more than 50 statutory boards.</p>
+<p>The Singapore Public Service employs about 154,000 public officers working
+in 16 Ministries and more than 50 Statutory Boards. Within the Public Service
+is the Civil Service, comprising about 87,000 officers working in the Ministries.</p>
 <h3><strong>Our Mission</strong></h3>
 <p>We work with the elected Government and Singaporeans to forge a common
 vision of Singapore's future and transform the vision into reality. We
