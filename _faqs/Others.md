@@ -15,7 +15,7 @@ etc).</p>
 <hr>
 <p><strong>What is the difference between Ministries and Statutory Boards? Are Statutory Boards considered part of the Singapore Civil Service?</strong>
 </p>
-<p>The Singapore Public Service employs about 152,000 public officers who
+<p>The Singapore Public Service employs about 154,000 public officers who
 work in 16 Ministries and more than 50 Statutory Boards. Within the Public
 Service is the Civil Service, comprising about 86,000 officers working
 in the Ministries.</p>
