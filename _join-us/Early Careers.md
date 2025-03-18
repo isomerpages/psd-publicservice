@@ -116,7 +116,7 @@ and <a href="https://www.youtube.com/@sgcareersgov" rel="noopener nofollow" targ
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Singapore Public Service offers a wide range of career opportunities
-and employs about 152,000 public officers who work in 16 Ministries and
+and employs about 154,000 public officers who work in 16 Ministries and
 more than 50 Statutory Boards. Within the Public Service is the Civil Service,
 comprising about 86,000 officers working in the Ministries.
 <br>
