@@ -5,7 +5,9 @@ description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/Careers_Gov__18_.png
 permalink: /
-notification: ""
+notification: We are currently undergoing system maintenance, and job
+  applications may be temporarily unavailable until 6:00am on 31 March 2025. We
+  apologise for any inconvenience caused.
 sections:
   - hero:
       background: /images/cgbannernew.png
