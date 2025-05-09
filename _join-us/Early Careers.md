@@ -86,7 +86,38 @@ listing.</p>
 </div>
 </a>
 </div>
-<p></p>
+<hr>
+<h4><strong><u>Browse By Job Types</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="go.gov.sg/ec-commsengagement" rel="noopener nofollow" target="_blank">Comms &amp; Engagement</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ec-corpservices" rel="noopener nofollow" target="_blank">Corporate Services &amp; Administration</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ec-datatechstats" rel="noopener nofollow" target="_blank">Data, Tech &amp; Digital Services</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ec-education" rel="noopener nofollow" target="_blank">Education</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ec-finecons" rel="noopener nofollow" target="_blank">Finance &amp; Economy</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ec-infrastructureengineering" rel="noopener nofollow" target="_blank">Infrastructure &amp; Engineering</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ec-policygovernance" rel="noopener nofollow" target="_blank">Policy &amp; Governance</a>
+</p>
+</li>
+</ul>
 <hr>
 <h4><strong><u>Connect With Us</u></strong></h4>
 <p>Stay updated on how you can be part of our mission to Make a Difference
