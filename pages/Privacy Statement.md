@@ -57,8 +57,7 @@ for the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
 </li>
 <li>
-<p>Please contact&nbsp;<a href="mailto:enquiries@mylegacy.gov.sg" rel="noopener noreferrer nofollow" target="_blank">enquiries@mylegacy.gov.sg</a> if
-you:</p>
+<p>Please contact us via this <a href="https://go.gov.sg/askcareersgov" rel="noopener noreferrer nofollow" target="_blank">form</a> if you:</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
