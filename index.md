@@ -5,8 +5,8 @@ description: Welcome to Careers@Gov, the gateway to a fulfilling career in the
   Singapore Public Service.
 image: /images/Careers_Gov__18_.png
 permalink: /
-notification: Careers@Gov will be undergoing maintenance from 17 May 2025
-  0000hrs to 17 May 2025 1200hrs. You may experience intermittent disruptions
+notification: Careers@Gov will be undergoing maintenance from 25 May 2025
+  0000hrs to 25 May 2025 1600hrs. You may experience intermittent disruptions
   during this period. Thank you for your patience and understanding.
 sections:
   - hero:
